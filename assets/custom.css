@@ -562,6 +562,75 @@ body {
   align-items: flex-start;
 }
 
+/* Composition table styling to prevent overflow on small screens */
+.composition-table-wrap {
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.composition-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.composition-table th,
+.composition-table td {
+  padding: 0.85rem 1rem;
+  vertical-align: middle;
+  border-bottom: 1px solid #eef6fb;
+}
+
+.composition-table th {
+  text-align: left;
+  font-weight: 800;
+  color: #163444;
+  font-size: 1.05rem;
+  white-space: normal;
+  word-break: break-word;
+}
+
+.composition-table td {
+  text-align: right;
+  color: #20384f;
+  white-space: nowrap;
+}
+
+/* Prefer proportional columns on wider screens */
+.composition-table th {
+  width: 70%;
+}
+.composition-table td {
+  width: 30%;
+}
+
+@media (max-width: 520px) {
+  .composition-table th {
+    font-size: 0.98rem;
+  }
+
+  .composition-table td {
+    font-size: 0.95rem;
+  }
+
+  /* Allow values to wrap on very small screens to avoid horizontal overflow */
+  .composition-table {
+    table-layout: auto;
+  }
+
+  .composition-table td {
+    white-space: normal;
+    text-align: left;
+    color: #20384f;
+  }
+
+  .composition-table th,
+  .composition-table td {
+    display: block;
+    padding: 0.6rem 0.75rem;
+  }
+}
+
 .detail-cover {
   width: 100%;
   border-radius: 1rem;
