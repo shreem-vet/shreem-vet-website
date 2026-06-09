@@ -1,0 +1,20 @@
+[
+  {
+    "id": "cattle",
+    "title": "Cattle",
+    "file": "new-shreemvet/Catalogues/Shreem Vet Ind..pdf",
+    "image": "Catalogue_image/cattle.webp"
+  },
+  {
+    "id": "poultry",
+    "title": "Poultry",
+    "file": "new-shreemvet/Catalogues/Poultry.pdf",
+    "image": "Catalogue_image/poultry.jpg"
+  },
+  {
+    "id": "bolus",
+    "title": "Bolus",
+    "file": "new-shreemvet/Catalogues/Shreem Bolus.pdf",
+    "image": "Catalogue_image/bolus.webp"
+  }
+]

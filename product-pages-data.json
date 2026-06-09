@@ -1,0 +1,2572 @@
+{
+  "products": [
+    {
+      "id": "Calvion_Bolus",
+      "slug": "calvion-bolus",
+      "category": "Bolus",
+      "name": "CALVION BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Calvion_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Calvion_Bolus/info_image.jpg",
+      "heroTitle": "A Calcium Bolus With Vitamins & Minerals SHREEM CALVION BOLUS",
+      "subtitle": "A VETERINARY FEED SUPPLEMENT TO ADDRESS CALCIUM DEFICIENCIES & BOOST MILK PRODUCTION IN LIVESTOCK",
+      "description": [
+        "Shreem Calvion Bolus is a veterinary feed supplement to address calcium deficiencies & boost milk production in livestock. It is a high potency blend of essential minerals, vitamins, jivanti & Shatavari. It strengthens skeletal structure & Supports reproductive health. It prevents milk fever."
+      ],
+      "composition": [
+        {
+          "ingredient": "Calcium",
+          "value": "7.50 gm"
+        },
+        {
+          "ingredient": "Phosphorus",
+          "value": "1.5 gm"
+        },
+        {
+          "ingredient": "Vitamin D3",
+          "value": "20,000 IU"
+        },
+        {
+          "ingredient": "Vitamin B12",
+          "value": "100 mcg"
+        },
+        {
+          "ingredient": "Vitamin E",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Vitamin A",
+          "value": "50,000 IU"
+        },
+        {
+          "ingredient": "Vitamin H",
+          "value": "0.005 gm"
+        },
+        {
+          "ingredient": "Copper",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Zinc",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "L Lysine",
+          "value": "250 mg"
+        },
+        {
+          "ingredient": "Magnesium",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "DL Methionine",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Asparagus Racemosus",
+          "value": "0.5 gm"
+        },
+        {
+          "ingredient": "Leptadenia Reticulata",
+          "value": "0.5 gm"
+        }
+      ],
+      "benefits": [
+        "It strengthen bones, teeth & provides structural integrity.",
+        "It improves the quantity & quality of milk.",
+        "It helps in the smooth let down of milk.",
+        "It promotes growth in young animals & maintains high energy level in adults.",
+        "It improves conception rates & reproductive health."
+      ],
+      "indications": ["Low milk yield.", "Bone weakness.", "Hypocalcemia."],
+      "dosage": [
+        "Cow/Buffaloes: 1 Bolus twice daily for 7 days. (or as directed by the veterinarian.)",
+        "Pregnant Animals: 1 Bolus daily for 3-5 days. (preferably before & after calving)",
+        "Sheep/Goat: 1-2 Bolus daily for 3 days. (or as directed by the veterinarian.)"
+      ],
+      "packing": "1*4 Bolus Strip",
+      "shelfLife": "24 Months",
+      "additional": ["Shelf Life: 24 Months", "Packing: 1*4 Bolus Strip"]
+    },
+    {
+      "id": "Digexon_Bolus",
+      "slug": "digexon-bolus",
+      "category": "Bolus",
+      "name": "DIGEXON BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Digexon_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Digexon_Bolus/info_image.jpg",
+      "heroTitle": "SHREEM DIGEXON BOLUS",
+      "subtitle": "A complete formula for healthy digestion & appetite",
+      "description": [
+        "Shreem Digexon Bolus is a veterinary feed supplement to optimise gastro intestinal health in livestock. It contains natural salts & digestive stimulants to address issues like anorexia, indigestion & bloating. It ensures faster recovery from illness and better feed utilization and metabolic health for high yielding animals."
+      ],
+      "composition": [
+        {
+          "ingredient": "Lactobacillus Sporogenes Culture",
+          "value": "20 Million CFU"
+        },
+        {
+          "ingredient": "Live Yeast Culture",
+          "value": "3 gm"
+        },
+        {
+          "ingredient": "Amino Acids",
+          "value": "2 gm"
+        },
+        {
+          "ingredient": "Liver Extract",
+          "value": "5 mg"
+        },
+        {
+          "ingredient": "Zingiber Officinale",
+          "value": "500 mg"
+        },
+        {
+          "ingredient": "Sodium Chloride",
+          "value": "2 gm"
+        },
+        {
+          "ingredient": "Sodium Bicarbonate",
+          "value": "3 gm"
+        },
+        {
+          "ingredient": "Excipients",
+          "value": "Q.S."
+        }
+      ],
+      "benefits": [
+        "It improves digestion leading to better milk production & body weight.",
+        "Promotes a healthy liver & aids in detoxification.",
+        "It improves rumen fermentation.",
+        "It normalize ph of rumen.",
+        "It Improves gut immunity.",
+        "It sanitizes intestinal tract & enhance absorption of nutrients."
+      ],
+      "indications": [
+        "During antibiotic treatment.",
+        "Anorexia.",
+        "Acidosis.",
+        "Indigestion.",
+        "After deworming."
+      ],
+      "dosage": [
+        "Cow/Buffaloes: 1 Bolus three times daily for 7 days. (or as directed by the veterinarian.)",
+        "Sheep/Goat: 1/2 Bolus twice daily for 2-3 days. (or as directed by the veterinarian.)"
+      ],
+      "packing": "1*4 Bolus Strip",
+      "shelfLife": "24 Months",
+      "additional": ["Shelf Life: 24 Months", "Packing: 1*4 Bolus Strip"]
+    },
+    {
+      "id": "Estriva_Heat_Bolus",
+      "slug": "estriva-heat-bolus",
+      "category": "Bolus",
+      "name": "ESTRIVA HEAT BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Estriva_Heat_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Estriva_Heat_Bolus/info_image.jpg",
+      "heroTitle": "SHREEM ESTRIVA HEAT BOLUS",
+      "subtitle": "A unique non-hormonal oestrus inducer bolus with fertility minerals & vitamins",
+      "description": [
+        "Shreem Estriva Heat Bolus is a non-hormonal reproductive supplement to address silent heat & infertility issues in livestock. It combines a powerful blend of fertility enhancing minerals such as zinc, copper & magnesium. It simulates the reproductive system & ensuring a natural healthy oestrus cycle. It is an ideal solution for improving conception rates."
+      ],
+      "composition": [
+        {
+          "ingredient": "Vitamin A",
+          "value": "20,000 IU"
+        },
+        {
+          "ingredient": "Vitamin D3",
+          "value": "2000 IU"
+        },
+        {
+          "ingredient": "Vitamin E",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Vitamin B2",
+          "value": "10 mg"
+        },
+        {
+          "ingredient": "Calcium",
+          "value": "300 mg"
+        },
+        {
+          "ingredient": "Copper",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Cobalt",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Iron",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Iodine",
+          "value": "10 mg"
+        },
+        {
+          "ingredient": "Manganese",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Magnesium",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Selenium",
+          "value": "1 mg"
+        },
+        {
+          "ingredient": "Zinc",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Bioactive chromium",
+          "value": "2 mg"
+        },
+        {
+          "ingredient": "Vitamin K",
+          "value": "2 mg"
+        }
+      ],
+      "benefits": [
+        "It helps in inducing timely & natural oestrus (heat).",
+        "It reduce physiological stress & boost immunity.",
+        "It act as a natural anti bacterial and immunity booster to protect the reproductive tract.",
+        "It ensures the animal stays healthy during the breeding cycle."
+      ],
+      "indications": [
+        "Irregular oestrus cycle.",
+        "Post calving reproductive weakness.",
+        "Silent heat or anestrus.",
+        "Delayed maturity in heifers."
+      ],
+      "dosage": [
+        "Large Animal: 2-4 Bolus twice daily (or as directed by the veterinarian.)",
+        "Small Animal: 1/2 Bolus twice daily. (preferably before & after calving)",
+        "Course: Recommended dose should be administered for 4 days."
+      ],
+      "packing": "1*4 Bolus Strip",
+      "shelfLife": "24 Months",
+      "additional": ["Shelf Life: 24 Months", "Packing: 1*4 Bolus Strip"]
+    },
+    {
+      "id": "Lactiva_Bolus",
+      "slug": "lactiva-bolus",
+      "category": "Bolus",
+      "name": "LACTIVA BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Lactiva_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Lactiva_Bolus/info_image.jpg",
+      "heroTitle": "SHREEM LACTIVA BOLUS",
+      "subtitle": "Milk Enhancer Enriched with Minerals and Vitamins",
+      "description": [
+        "Shreem Lactiva Bolus is a nutritional supplement to optimize milk production in diary livestock. It is a blend of essential minerals amino acids & vitamins which addresses the nutritional gaps that cause low milk yield. it boost the quantity of milk, also supports udder health & improves the physiological strength of the animal during lactation cycle."
+      ],
+      "composition": [
+        {
+          "ingredient": "Calcium",
+          "value": "2000 mg"
+        },
+        {
+          "ingredient": "Phosphorus",
+          "value": "1000 mg"
+        },
+        {
+          "ingredient": "Vitamin A",
+          "value": "5000 IU"
+        },
+        {
+          "ingredient": "Vitamin D3",
+          "value": "5000 IU"
+        },
+        {
+          "ingredient": "L Lysine",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "DL Methionine",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Magnesium",
+          "value": "50 mg"
+        },
+        {
+          "ingredient": "Leptadenia Reticulata",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Asparagus Racemosus",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Carbohydrate",
+          "value": "200 mg"
+        }
+      ],
+      "benefits": [
+        "Enhances the absorption of calcium & phosphorus for stronger bones & better milk quality.",
+        "It boosts milk production naturally.",
+        "Enhances physical strength & animals natural resistance.",
+        "It reduces the risk of lactation related stress."
+      ],
+      "indications": [
+        "Irregularity in milk production",
+        "Hypogalactia",
+        "Nutritional deficiency during lactation",
+        "General weakness in milch animals"
+      ],
+      "dosage": [
+        "Cow/Buffaloes: 1 Bolus daily for 15 days regular (or as directed by the veterinarian.)",
+        "Pregnant Animals: 1 Bolus daily for 3 days",
+        "Goat/Sheep: 1/2 Bolus daily for 3 days"
+      ],
+      "packing": "1*4 Bolus Strip",
+      "shelfLife": "24 Months",
+      "additional": ["Shelf Life: 24 Months", "Packing: 1*4 Bolus Strip"]
+    },
+    {
+      "id": "Mastiva_Bolus",
+      "slug": "mastiva-bolus",
+      "category": "Bolus",
+      "name": "MASTIVA BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Mastiva_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Mastiva_Bolus/info_image.jpg",
+      "heroTitle": "SHREEM MASTIVA BOLUS",
+      "subtitle": "An advanced formula for udder health & mastitis management",
+      "description": [
+        "Shreem Mastiva Bolus is a nutritional approach to maintain udder health during mastitis. It is a combination of vitamins, minerals, probiotics & trisodium citrate to restore milk ph and reduce inflammation. It helps in the regeneration of milk secreting tissues. It is an essential supportive therapy to maintain milk quality & prevent the recurrence of udder related issues."
+      ],
+      "composition": [
+        {
+          "ingredient": "Vitamin A",
+          "value": "50,000 IU"
+        },
+        {
+          "ingredient": "Vitamin D3",
+          "value": "10,000 IU"
+        },
+        {
+          "ingredient": "Vitamin E",
+          "value": "800 mg"
+        },
+        {
+          "ingredient": "Vitamin C",
+          "value": "500 mg"
+        },
+        {
+          "ingredient": "Vitamin H",
+          "value": "20 mcg"
+        },
+        {
+          "ingredient": "Vitamin K",
+          "value": "5 mcg"
+        },
+        {
+          "ingredient": "Selenium",
+          "value": "10 mg"
+        },
+        {
+          "ingredient": "Zinc Oxide",
+          "value": "500 mg"
+        },
+        {
+          "ingredient": "Copper Sulphate",
+          "value": "400 mg"
+        },
+        {
+          "ingredient": "Potassium Iodide",
+          "value": "600 mg"
+        },
+        {
+          "ingredient": "Amino Nitrogen",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Lactic Acid Bacillus",
+          "value": "900 mill. cfu"
+        },
+        {
+          "ingredient": "Trisodium citrate",
+          "value": "2500 mg"
+        },
+        {
+          "ingredient": "Asparagus Racemosus",
+          "value": "50 mg"
+        },
+        {
+          "ingredient": "Leptadenia Reticulata",
+          "value": "50 mg"
+        }
+      ],
+      "benefits": [
+        "It helps in normalize the ph of milk, making it less favorable for bacterial growth.",
+        "It helps in the rapid repair of udder tissues.",
+        "It strengthen the natural immunity to fight udder infections.",
+        "It improves the consistency and colour of milk.",
+        "It maintains gut health."
+      ],
+      "indications": [
+        "udder swelling, pain or hardness",
+        "Alteration in milk",
+        "To improve udder health & prevent recurrence of infections",
+        "Supportive therapy in clinical mastitis"
+      ],
+      "dosage": [
+        "Large Animal: 1-2 Bolus for 3-5 days daily (or as directed by the veterinarian.)",
+        "In acute cases, the dose can be repeated or as directed by a veterinary consultant"
+      ],
+      "packing": "1*4 Bolus Strip",
+      "shelfLife": "24 Months",
+      "additional": ["Shelf Life: 24 Months", "Packing: 1*4 Bolus Strip"]
+    },
+    {
+      "id": "Minexa_Bolus",
+      "slug": "minexa-bolus",
+      "category": "Bolus",
+      "name": "MINEXA BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Minexa_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Minexa_Bolus/info_image.jpg",
+      "heroTitle": "SHREEM MINEXA BOLUS",
+      "subtitle": "A High Potency Blend of Essential Minerals & Vitamins",
+      "description": [
+        "Shreem Minexa Bolus is a balanced combination of essential macro and micro minerals to bridge the dietary gap in modern livestock farming. It plays a vital role in maintaining growth, reproduction, milk production & immunity in cattle. By providing critical trace elements, it ensure optimal health, prevents minerals deficiency diseases & supports peak performance throughout the lactation & gestation periods."
+      ],
+      "composition": [
+        {
+          "ingredient": "Vitamin A",
+          "value": "50,000 IU"
+        },
+        {
+          "ingredient": "Vitamin D3",
+          "value": "50,000 IU"
+        },
+        {
+          "ingredient": "Vitamin E",
+          "value": "20 mg"
+        },
+        {
+          "ingredient": "Vitamin B12",
+          "value": "30 mcg"
+        },
+        {
+          "ingredient": "Calcium",
+          "value": "5000 mcg"
+        },
+        {
+          "ingredient": "Phosphorus",
+          "value": "2500 mg"
+        },
+        {
+          "ingredient": "Copper",
+          "value": "50 mg"
+        },
+        {
+          "ingredient": "Zinc",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Manganese",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Cobalt",
+          "value": "20 mg"
+        },
+        {
+          "ingredient": "Potassium Iodide",
+          "value": "20 mg"
+        },
+        {
+          "ingredient": "Magnesium",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "DL Methionine",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "L Lysine",
+          "value": "50 mg"
+        },
+        {
+          "ingredient": "Selenium",
+          "value": "1 mg"
+        },
+        {
+          "ingredient": "Asparagus Racemosus",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Leptadenia Reticulata",
+          "value": "100 mg"
+        }
+      ],
+      "benefits": [
+        "Maintain proper metabolic & physiological functions",
+        "Improve feed utilization & digestion",
+        "Enhance milk yield & quality",
+        "Support reproductive efficiency & fertility",
+        "Promotes fagroster growth in young stock & improves overall body condition",
+        "Prevents metabolic disorders like milk fever"
+      ],
+      "indications": [
+        "Improving milk production",
+        "Bone development & growth",
+        "Boosting immunity",
+        "Prevention of minerals deficiency disorders (milk fever, pica, grass tetany)"
+      ],
+      "dosage": [
+        "Cow/Buffaloes: 1-2 Bolus daily for high yielding animals (or as directed by the veterinarian.)",
+        "Goat/Sheep: 1/2 Bolus daily (or as directed by the veterinarian.)"
+      ],
+      "packing": "1*4 Bolus Strip",
+      "shelfLife": "24 Months",
+      "additional": ["Shelf Life: 24 Months", "Packing: 1*4 Bolus Strip"]
+    },
+    {
+      "id": "Skintrix_Plus",
+      "slug": "skintrix-plus",
+      "category": "Bolus",
+      "name": "SKINTRIX PLUS",
+      "cover": "new-shreemvet/Products/Bolus/Skintrix_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Skintrix_Plus/info_image.jpg",
+      "heroTitle": "SHREEM SKIN TRIX PLUS BOLUS",
+      "subtitle": "A Nutritional Shield For Skin Health & Immunity",
+      "description": [
+        "Shreem Skin Trix Plus Bolus is a specially formulated veterinary supplement design to provide supportive care in lumpy skin disease & to promote rapid recovery of skin integrity. This bolus contains a balanced combination of vitamins, anti inflammatory agents, immunomodulators & essential minerals which work together to boost immunity promotes faster recovery & improve overall health of affected animals."
+      ],
+      "composition": [
+        {
+          "ingredient": "Vitamin C",
+          "value": "1000 mg"
+        },
+        {
+          "ingredient": "Vitamin E",
+          "value": "500 mg"
+        },
+        {
+          "ingredient": "Selenium",
+          "value": "1.5 mg"
+        },
+        {
+          "ingredient": "Choline Chloride",
+          "value": "500 mg"
+        },
+        {
+          "ingredient": "Zinc Sulphate",
+          "value": "150 mg"
+        },
+        {
+          "ingredient": "Copper Sulphate",
+          "value": "50 mg"
+        },
+        {
+          "ingredient": "Vitamin B9",
+          "value": "250 mg"
+        },
+        {
+          "ingredient": "Yeast",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Potassium Iodide",
+          "value": "150 mg"
+        },
+        {
+          "ingredient": "Liver Extract",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Neem Extract",
+          "value": "150 mg"
+        },
+        {
+          "ingredient": "Curcumin",
+          "value": "250 mg"
+        },
+        {
+          "ingredient": "Tinospora cordifoila",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Silymarin",
+          "value": "200 mg"
+        }
+      ],
+      "benefits": [
+        "Reducing fever & inflammation",
+        "Supporting healing of skin nodules & wounds",
+        "Improving resistance against secondary infections",
+        "Enhancing milk production & appetite"
+      ],
+      "indications": [
+        "Visible skin lesions",
+        "Discharge & swelling",
+        "Dermatitis & localized skin inflammation",
+        "Viral Bacterial skin infections"
+      ],
+      "dosage": [
+        "Cow/Buffaloes: 2 Bolus daily for 5-7 days (or as directed by the veterinarian.)",
+        "Small Animal: 1/2-1 Bolus daily. (preferably before & after calving)"
+      ],
+      "packing": "1*4 Bolus Strip",
+      "shelfLife": "24 Months",
+      "additional": ["Shelf Life: 24 Months", "Packing: 1*4 Bolus Strip"]
+    },
+    {
+      "id": "Wormiva_Bolus",
+      "slug": "wormiva-bolus",
+      "category": "Bolus",
+      "name": "WORMIVA BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Wormiva_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Wormiva_Bolus/info_image.jpg",
+      "heroTitle": "SHREEM WORMIVA BOLUS",
+      "subtitle": "Milk Enhancer Enriched with Minerals and Vitamins",
+      "description": [
+        "Shreem Wormiva Bolus is a specially formulated veterinary products design to control & eliminate internal parasites in cattle. This bolus works by targeting and removing harmful worms from the gastro intestinal tract & other organs, thereby helping to restore normal digestion & improve nutrient absorption. It plays a vital role in maintaining optimum body condition, better immunity, higher milk yield & a shiny coat in diary cattle."
+      ],
+      "composition": [
+        {
+          "ingredient": "Saccharomyces Cerevisiae",
+          "value": "1 billion cfu"
+        },
+        {
+          "ingredient": "Copper Sulphate",
+          "value": "50 mg"
+        },
+        {
+          "ingredient": "Cobalt Sulphate",
+          "value": "10 mg"
+        },
+        {
+          "ingredient": "Ferrous Sulphate",
+          "value": "50 mg"
+        },
+        {
+          "ingredient": "Vitamin B12",
+          "value": "15 mcg"
+        },
+        {
+          "ingredient": "Embeliaribes",
+          "value": "1000 mg"
+        },
+        {
+          "ingredient": "Butea Monosperma",
+          "value": "250 mg"
+        },
+        {
+          "ingredient": "Sodium Bicarbonate",
+          "value": "500 mg"
+        },
+        {
+          "ingredient": "Digestive Enzymes Blend",
+          "value": "Q.S."
+        }
+      ],
+      "benefits": [
+        "Helps in natural control of internal parasites.",
+        "Improves digestion & gut health.",
+        "Enhances feed absorption & appetite.",
+        "Supports overall immunity & productivity.",
+        "Safe for regular use as supplement."
+      ],
+      "indications": [
+        "Weight loss or poor growth.",
+        "Rough hair coat.",
+        "Diarrhea or digestive disturbances.",
+        "Reduced milk yield.",
+        "Visible signs of worm infestation."
+      ],
+      "dosage": [
+        "Large Animals: 1-2 Bolus as a single dose. Give 2 bolus in the evening 1 hour after feeding fodder, do not give anything else afterwards.",
+        "Small Animals: 1 Bolus as a single dose. Give 1 bolus in the evening 1 hour after feeding fodder, do not give anything else afterwards.",
+        "Heifer/Calves: 1 Bolus as a single dose. Repeat the dose every three months or as directed by a veterinary consultant."
+      ],
+      "packing": "1*4 Bolus Strip",
+      "shelfLife": "24 Months",
+      "additional": ["Shelf Life: 24 Months", "Packing: 1*4 Bolus Strip"]
+    },
+    {
+      "id": "Activexon_Gel",
+      "slug": "activexon-gel",
+      "category": "Cattle",
+      "name": "ACTIVEXON GEL",
+      "cover": "new-shreemvet/Products/Cattle/Activexon_Gel/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Activexon_Gel/info_image.jpg",
+      "heroTitle": "SHREEM ACTIVEXON GEL",
+      "subtitle": "Instant Energy • Faster Recovery • Peak Performance",
+      "description": [
+        "Shreem Activexon Gel is a highly effective, fast-acting nutritional gel formulated to provide instant energy and metabolic support in cattle. Designed with a powerful blend of essential nutrients, vitamins, and energy boosters, it helps animals quickly overcome stress, weakness, and energy deficiency conditions. This advanced formulation is ideal for lactating dairy animals, freshly calved cows, and weak or off-feed cattle, supporting rapid recovery, improved stamina, and enhanced productivity. It plays a crucial role during periods of stress such as calving, transportation, illness, or sudden drop in feed intake. With its easy-to-administer gel form and high palatability, Shreem Activexon Gel ensures quick absorption and immediate action, helping maintain optimal performance, better milk yield, and overall animal health."
+      ],
+      "composition": [
+        { "ingredient": "Calcium", "value": "10000 mg" },
+        { "ingredient": "Phosphorus", "value": "5000 mg" },
+        { "ingredient": "Vitamin D3", "value": "40000 IU" },
+        { "ingredient": "Vitamin B12", "value": "1000 mcg" },
+        { "ingredient": "Magnesium", "value": "3000 mg" },
+        { "ingredient": "Carbohydrate", "value": "40000 mg" },
+        { "ingredient": "Jivanti Extract", "value": "200 mg" },
+        { "ingredient": "Shatavari Extract", "value": "200 mg" },
+        { "ingredient": "Energy", "value": "50 CL" }
+      ],
+      "benefits": [
+        "Increases milk production",
+        "Strengthens bones",
+        "Boosts physical strength and energy",
+        "Improves immunity",
+        "Enhances reproductive health"
+      ],
+      "indications": [
+        "As an aid to prevent milk fever & associated complication.",
+        "As an aid to increase the milk yield.",
+        "As an aid to favour the normal contraction of uterus, normal calving & timely expulsion of placenta.",
+        "Calcium Active Gel is a comprehensive nutritional supplement formulated to supply the essential nutrients of dairy animals."
+      ],
+      "dosage": [
+        "Regular Use: 1 bottle/animal a day for 5-10 days. (or as directed by veterinarian)",
+        "To Prevent Milk Fever: Give 1 bottle at the first sign of calving & give another bottle 6-12 hours post calving. Repeat every 12 hours as needed. (or as directed by veterinarian)"
+      ],
+      "packing": "300ml",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 300ml"]
+    },
+    {
+      "id": "Bufftrixa_Plus",
+      "slug": "bufftrixa-plus",
+      "category": "Cattle",
+      "name": "BUFFTRIXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Bufftrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Bufftrixa_Plus/info_image.jpg",
+      "heroTitle": "SHREEM BUFFTRIXA PLUS",
+      "subtitle": "Advanced Rumen Buffer Formula for Effective Acidosis Control, Improved Digestion & Higher Milk Fat",
+      "description": [
+        "Shreem Bufftrixa Plus is a scientifically balanced rumen buffer formulation designed to maintain optimal rumen pH and prevent acidosis in dairy cattle. High-concentrate feeding and modern dairy practices often lead to rumen imbalance, reduced feed efficiency, and low milk fat—this is where Bufftrixa Plus plays a critical role. Formulated with effective buffering agents and supportive nutrients, it stabilizes rumen conditions, enhances fiber digestion, and promotes better nutrient utilization. This results in improved milk yield, increased milk fat percentage, and overall better animal performance. Regular use of Shreem Bufftrixa Plus helps in reducing digestive disorders, improving feed intake, and ensuring healthier and more productive animals, making it an essential solution for high-performing dairy herds."
+      ],
+      "composition": [
+        {
+          "ingredient": "Sodium Bicarbonate",
+          "value": ""
+        },
+        {
+          "ingredient": "Magnesium Oxide",
+          "value": ""
+        },
+        {
+          "ingredient": "Live culture Yeast",
+          "value": ""
+        },
+        {
+          "ingredient": "HSCAS (Hydrated Sodium Calcium Aluminium Silicate)",
+          "value": ""
+        }
+      ],
+      "benefits": [
+        "Maintains optimal rumen pH balance and effectively prevents acidosis.",
+        "Increases milk yield and milk fat percentage",
+        "Improves feed efficiency and nutrient absorption"
+      ],
+      "indications": [
+        "Enhances fiber digestion for better utilization of roughage.",
+        "Reduces risk of digestive disorders and feed-related stress",
+        "Supports healthy rumen microflora activity",
+        "Promotes better feed intake in high-producing animals",
+        "Helps in stabilizing rumen conditions during high concentrate feeding",
+        "Improves overall animal performance and productivity",
+        "Suitable for lactating, high-yielding, and stress-prone cattle"
+      ],
+      "dosage": [
+        "Cattle: 250-500gm daily to be mixed in feed (or as directed by veterinarian)"
+      ],
+      "packing": "250gm, 500gm, 1kg",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 250gm, 500gm, 1kg"]
+    },
+    {
+      "id": "Calphovexon_Plus",
+      "slug": "calphovexon-plus",
+      "category": "Cattle",
+      "name": "CALPHOVEXON PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Calphovexon_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Calphovexon_Plus/info_image.jpg",
+      "heroTitle": "SHREEM CALPHOVEXON PLUS",
+      "subtitle": "Stronger Bones • Higher Milk Yield • Complete Ca-P Balance",
+      "description": [
+        "Shreem Calphovexon Plus is a scientifically advanced chelated Calcium & Phosphorus liquid formulation designed to ensure optimal mineral balance and superior bioavailability in cattle. Its highly absorbable chelated form supports rapid correction of calcium and phosphorus deficiencies, helping maintain strong bones, better metabolic function, and improved productivity. This powerful formulation is ideal for lactating dairy animals, pregnant cattle, and growing calves, where balanced Ca-P nutrition is essential for milk production, fertility, and skeletal development. It also aids in the prevention and management of metabolic disorders such as milk fever and mineral imbalance conditions. With enhanced palatability and quick action, Shreem Calphovexon Plus ensures faster recovery, improved feed efficiency, and consistent performance, making it an essential supplement for modern dairy management."
+      ],
+      "composition": [
+        {
+          "ingredient": "Calcium",
+          "value": "5000 mg"
+        },
+        {
+          "ingredient": "Phosphorus",
+          "value": "2000 mg"
+        },
+        {
+          "ingredient": "Vitamin A",
+          "value": "50000 IU"
+        },
+        {
+          "ingredient": "Vitamin D3",
+          "value": "10000 IU"
+        },
+        {
+          "ingredient": "Vitamin B12",
+          "value": "100 mcg"
+        },
+        {
+          "ingredient": "Vitamin E",
+          "value": "300 mg"
+        },
+        {
+          "ingredient": "Vitamin H",
+          "value": "20 mg"
+        },
+        {
+          "ingredient": "Jivanti",
+          "value": "500 mg"
+        },
+        {
+          "ingredient": "Shatavari",
+          "value": "500 mg"
+        },
+        {
+          "ingredient": "Carbohydrate",
+          "value": "1000 mg"
+        },
+        {
+          "ingredient": "Selenium",
+          "value": "5 mg"
+        },
+        {
+          "ingredient": "Bioactive Chromium",
+          "value": "100 mg"
+        }
+      ],
+      "benefits": [
+        "Maximum Bioavailability",
+        "Anti-Caking Property",
+        "Increases Metabolism",
+        "Increases Milk Production",
+        "Supports Reproductive Health"
+      ],
+      "indications": [
+        "Enhance milk production in dairy animals.",
+        "Improve nutrient absorption.",
+        "Improve feed intake & promotes digestion.",
+        "For adequate skeletal development & optimum growth of young animals & optimum tonicity, strength of muscles."
+      ],
+      "dosage": [
+        "Cow/Buffalo: 100ml daily",
+        "Calf & Pig: 40 ml daily",
+        "Sheep/Goat: 20ml daily",
+        "Chicks & Broilers: 10-20ml daily (each 100 birds)"
+      ],
+      "packing": "1ltr, 2ltr, 5ltr, 6ltr, 10ltr, 20ltr, 40ltr",
+      "shelfLife": "",
+      "additional": [
+        "Available Pack Size: 1ltr, 2ltr, 5ltr, 6ltr, 10ltr, 20ltr, 40ltr"
+      ]
+    },
+    {
+      "id": "Caltrixa_Granules",
+      "slug": "caltrixa-granules",
+      "category": "Cattle",
+      "name": "CALTRIXA GRANULES",
+      "cover": "new-shreemvet/Products/Cattle/Caltrixa_Granules/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Caltrixa_Granules/info_image.jpg",
+      "heroTitle": "SHREEM CALTRIXA GRANULES",
+      "subtitle": "Advanced Calcium Granules for Strong Bones, Improved Milk Production & Effective Prevention of Milk Fever",
+      "description": [
+        "Shreem Caltrixa Granules is a scientifically formulated calcium supplement designed to meet the high calcium demands of dairy cattle, especially during late pregnancy, calving, and early lactation. Enriched with highly bioavailable calcium sources along with essential co-factors, it ensures rapid absorption and optimal utilization in the body. This advanced formulation helps in the prevention and management of hypocalcemia (milk fever), supports strong bone development, and enhances muscle function. It also plays a vital role in improving milk yield, maintaining metabolic balance, and promoting faster recovery after calving. With regular supplementation, Shreem Caltrixa Granules ensures healthier, stronger, and more productive animals, making it an essential component of modern dairy nutrition programs."
+      ],
+      "composition": [
+        {
+          "ingredient": "Calcium",
+          "value": "25.0 gm"
+        },
+        {
+          "ingredient": "Phosphorus",
+          "value": "12.5 gm"
+        },
+        {
+          "ingredient": "Magnesium",
+          "value": "2.0 gm"
+        },
+        {
+          "ingredient": "Liver Extract",
+          "value": "1.25 gm"
+        },
+        {
+          "ingredient": "Yeast Extract",
+          "value": "40 mg"
+        },
+        {
+          "ingredient": "Vitamin D3",
+          "value": "10000 IU"
+        },
+        {
+          "ingredient": "Lactobacillus Sporogenes",
+          "value": "60 Spor gms"
+        },
+        {
+          "ingredient": "Fungal Diastase",
+          "value": "3 gm"
+        },
+        {
+          "ingredient": "Jivanti",
+          "value": "300 mg"
+        },
+        {
+          "ingredient": "Shatavari",
+          "value": "300 mg"
+        }
+      ],
+      "benefits": [
+        "Supports bone development and strength in livestock.",
+        "Enhances calcium absorption and boosts immunity.",
+        "Suitable for cattle, buffaloes, heifers, calves, sheep, and goats."
+      ],
+      "indications": [
+        "Improves Bone Strength",
+        "Boosts Immunity",
+        "Enhances Milk Production",
+        "Reduces Stress & Weakness"
+      ],
+      "dosage": [
+        "Cow/Buffalo: 50-80gm daily",
+        "Calf & Pig: 15-20gm daily",
+        "Sheep/Goat: 15-20gm daily",
+        "Heifers: 20-30gm daily"
+      ],
+      "packing": "1kg, 5kg, 25kg",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 1kg, 5kg, 25kg"]
+    },
+    {
+      "id": "Calvexon_Plus",
+      "slug": "calvexon-plus",
+      "category": "Cattle",
+      "name": "CALVEXON PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Calvexon_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Calvexon_Plus/info_image.jpg",
+      "heroTitle": "SHREEM CALVEXON PLUS",
+      "subtitle": "Stronger Bones • Better Milk Yield • Faster Recovery",
+      "description": [
+        "Shreem Calvexon Plus is an advanced chelated calcium liquid formulation specially designed for cattle to ensure maximum calcium absorption and bioavailability. Enriched with essential minerals and supportive nutrients, it helps in preventing calcium deficiency, improving bone strength, and enhancing overall productivity. This scientifically balanced formula supports lactating animals, pregnant cattle, and growing calves, promoting better milk production, improved fertility, and faster recovery from metabolic stress conditions like milk fever. With its highly palatable liquid form and superior chelation technology, Shreem Calvexon Plus ensures quick action, optimal health, and consistent performance in dairy animals."
+      ],
+      "composition": [
+        {
+          "ingredient": "Calcium",
+          "value": "8000 mg"
+        },
+        {
+          "ingredient": "Phosphorus",
+          "value": "5000 mg"
+        },
+        {
+          "ingredient": "Vitamin A",
+          "value": "50000 IU"
+        },
+        {
+          "ingredient": "Vitamin D3",
+          "value": "20000 IU"
+        },
+        {
+          "ingredient": "Vitamin B12",
+          "value": "100 mcg"
+        },
+        {
+          "ingredient": "Vitamin E",
+          "value": "150000 mcg"
+        },
+        {
+          "ingredient": "Vitamin H",
+          "value": "20 mg"
+        },
+        {
+          "ingredient": "Jivanti",
+          "value": "500 mg"
+        },
+        {
+          "ingredient": "Shatavari",
+          "value": "500 mg"
+        },
+        {
+          "ingredient": "Potassium Iodide",
+          "value": "500 mg"
+        },
+        {
+          "ingredient": "Ch. Zinc",
+          "value": "1500 mg"
+        },
+        {
+          "ingredient": "Bioactive Chromium",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Dextrose",
+          "value": "25%"
+        },
+        {
+          "ingredient": "Silymarine",
+          "value": "500 mg"
+        },
+        {
+          "ingredient": "Ch. Copper",
+          "value": "500 mg"
+        }
+      ],
+      "benefits": [
+        "Boosts Milk Production",
+        "Supports Liver Health",
+        "Provides Instant Energy",
+        "Strengthens Bones & Immunity",
+        "Enhances Reproductive Health"
+      ],
+      "indications": [
+        "To improve milk yield in lacting animals.",
+        "For better growth and weight gain.",
+        "Strengthens bones and improve overall health.",
+        "Decrease Reproductive problem.",
+        "Increase muscular strength and skeletal."
+      ],
+      "dosage": [
+        "Cow/Buffalo: 100ml daily",
+        "Calf & Pig: 40 ml daily",
+        "Sheep/Goat: 20ml daily",
+        "Chicks & Broilers: 10-20ml daily (each 100 birds)"
+      ],
+      "packing": "1ltr, 2ltr, 5ltr, 6ltr, 10ltr, 20ltr, 40ltr",
+      "shelfLife": "",
+      "additional": [
+        "Available Pack Size: 1ltr, 2ltr, 5ltr, 6ltr, 10ltr, 20ltr, 40ltr"
+      ]
+    },
+    {
+      "id": "Chelatrixa_Plus",
+      "slug": "chelatrixa-plus",
+      "category": "Cattle",
+      "name": "CHELATRIXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Chelatrixa_Plus/cover_image.jpeg",
+      "infoImage": "new-shreemvet/Products/Cattle/Chelatrixa_Plus/info_image.jpg",
+      "heroTitle": "SHREEM CHELATRIXA PLUS",
+      "subtitle": "Advanced Chelated Mineral Formula for Superior Absorption, Enhanced Productivity & Optimal Animal Health",
+      "description": [
+        "Shreem Chelatrixa Plus is a scientifically formulated chelated mineral mixture designed to deliver essential macro and trace minerals in highly bioavailable forms for dairy and livestock animals. Chelation technology ensures maximum absorption and utilization of minerals, overcoming the limitations of conventional inorganic sources. This advanced formulation supports improved milk yield, reproductive efficiency, immunity, and overall growth performance. It plays a crucial role in preventing mineral deficiencies, enhancing feed efficiency, and maintaining metabolic balance in cattle. Ideal for modern dairy management, Shreem Chelatrixa Plus helps farmers achieve higher productivity, better fertility, and healthier animals, making it a reliable solution for sustainable livestock nutrition."
+      ],
+      "composition": [
+        { "ingredient": "Vitamin A", "value": "250000 I.U." },
+        { "ingredient": "Vitamin D3", "value": "40000 I.U." },
+        { "ingredient": "Vitamin E", "value": "250 mg" },
+        { "ingredient": "Vitamin B1", "value": "1300 mg" },
+        { "ingredient": "Vitamin B2", "value": "600 mg" },
+        { "ingredient": "Vitamin B12", "value": "3000 mcg" },
+        { "ingredient": "Vitamin H", "value": "100 mcg" },
+        { "ingredient": "Calcium", "value": "220 gm" },
+        { "ingredient": "Copper", "value": "3000 mg" },
+        { "ingredient": "Cobalt", "value": "150 mg" },
+        { "ingredient": "Iron", "value": "2000 mg" },
+        { "ingredient": "Iodine", "value": "325 mg" },
+        { "ingredient": "Phosphorus", "value": "100 gm" },
+        { "ingredient": "Magnesium", "value": "3000 mg" },
+        { "ingredient": "Potassium", "value": "100 mg" },
+        { "ingredient": "Zinc", "value": "2000 mg" },
+        { "ingredient": "Sodium", "value": "5.9 mg" },
+        { "ingredient": "DL Methionine", "value": "1000 mg" },
+        { "ingredient": "Chromium", "value": "10 mg" },
+        { "ingredient": "Protein Hydrolysate", "value": "5000 mg" },
+        { "ingredient": "Niacinamide", "value": "1000 mg" },
+        { "ingredient": "Lactobacillus Spores", "value": "200 Million CFU" }
+      ],
+      "benefits": [
+        "Improves Digestion",
+        "Boosts Immunity",
+        "Enhances Productivity",
+        "Strengthens Bones and Teeth",
+        "Boosts Energy and Growth"
+      ],
+      "indications": [
+        "Improve immunity & overall health of animals.",
+        "Help to cure Calcium & Phosphorus deficiency diseases.",
+        "To Increase milk production in dairy animals.",
+        "Supports 'Calf & Heifer' a year programme."
+      ],
+      "dosage": [
+        "Cow/Buffalo: 40-50gm daily to be mixed in feed",
+        "Calf & Pig: 20-25gm daily to be mixed in feed",
+        "Sheep/Goat: 20-25gm daily to be mixed in feed",
+        "Poultry & Fish: 1kg to be mixed in 100 kg feed"
+      ],
+      "packing": "1kg, 5kg, 25kg",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 1kg, 5kg, 25kg"]
+    },
+    {
+      "id": "Enerzexa_Plus",
+      "slug": "enerzexa-plus",
+      "category": "Cattle",
+      "name": "ENERZEXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Enerzexa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Enerzexa_Plus/info_image.jpg",
+      "heroTitle": "SHREEM ENERZEXA PLUS",
+      "subtitle": "Powering Performance, Boosting Vitality, Maximizing Milk Yield",
+      "description": [
+        "Shreem Vet Industries presents a scientifically formulated energy booster designed to restore strength, enhance metabolic activity, and support peak productivity in cattle. Enriched with a powerful blend of instant energy sources, essential nutrients, and performance enhancers, this advanced formulation helps animals overcome stress, fatigue, and energy deficiency during critical stages such as lactation, illness, and recovery. It plays a vital role in improving feed utilization, sustaining milk production, and maintaining overall health and vitality. Ideal for dairy farmers seeking consistent performance and faster recovery, this energy booster ensures your livestock stay active, productive, and profitable every day."
+      ],
+      "composition": [
+        {
+          "ingredient": "Gluconeogenic Precursors fortified with B-Complex & Enriched with Bio-active Chromium, Minerals & Amino Acid",
+          "value": ""
+        }
+      ],
+      "benefits": [
+        "Boosts energy levels",
+        "Strengthens immunity",
+        "Helpful during stress and weakness",
+        "Improves digestion",
+        "Provides complete nutrition"
+      ],
+      "indications": [
+        "Helps to decrease negative energy balance in high lactating cattle.",
+        "Helps in glucose metabolism.",
+        "Instant energy source in animals.",
+        "Helps to reduce risk of ketosis."
+      ],
+      "dosage": ["Cattle: 100-200ml daily (or as directed by veterinarian)"],
+      "packing": "250ml, 500ml, 1ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 250ml, 500ml, 1ltr"]
+    },
+    {
+      "id": "Enzymax_Plus",
+      "slug": "enzymax-plus",
+      "category": "Cattle",
+      "name": "ENZYMAX PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Enzymax_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Enzymax_Plus/info_image.jpg",
+      "heroTitle": "SHREEM ENZYMAX PLUS",
+      "subtitle": "Advanced Enzyme Power for Superior Digestion & Maximum Feed Utilization",
+      "description": [
+        "Shreem Enzymax Plus is a scientifically developed enzyme-based feed supplement designed to enhance digestion and improve nutrient absorption in cattle. It contains a balanced blend of essential digestive enzymes that help break down complex feed components, optimize rumen function, and increase feed efficiency. Regular use supports better milk yield, improved growth, and overall animal health by reducing digestive disorders and maximizing nutrient availability. Ideal for all types of dairy and farm animals, Shreem Enzymax Plus ensures better performance, productivity, and profitability for farmers."
+      ],
+      "composition": [
+        { "ingredient": "Live Yeast Culture", "value": "20 gm" },
+        { "ingredient": "Sodium Bicarbonate", "value": "120 gm" },
+        { "ingredient": "Probiotics Blend", "value": "15 gm" },
+        { "ingredient": "Zinc", "value": "10 gm" },
+        { "ingredient": "Copper", "value": "10 gm" },
+        { "ingredient": "Manganese", "value": "10 gm" },
+        { "ingredient": "Amylase", "value": "10000 IU" },
+        { "ingredient": "Protease", "value": "5000 IU" },
+        { "ingredient": "Cellulase", "value": "3000 IU" },
+        { "ingredient": "Lipase", "value": "1000 IU" },
+        { "ingredient": "Phytase", "value": "500 IU" }
+      ],
+      "benefits": [
+        "Reduces digestive disorders like indigestion, bloating, and acidosis.",
+        "Improves growth rate and overall productivity in cattle.",
+        "Boosts energy utilization and animal performance.",
+        "Supports better immunity and stress management.",
+        "Suitable for all stages of dairy animals (calves to high-yield cows)."
+      ],
+      "indications": [
+        "Improves rumen function and maintains healthy gut microflora.",
+        "Increases feed efficiency and reduces feed wastage.",
+        "Supports higher milk production and better body condition.",
+        "Helps in faster digestion of fiber, protein, and starch."
+      ],
+      "dosage": [
+        "Cow/Buffaloes: 20-25gm twice in a day to be mix in the feed",
+        "Goat/Sheep: 10gm twice in a day to be mix in the feed",
+        "Fishes: 1kg per ton to be mix in the feed"
+      ],
+      "packing": "250gm, 500gm, 1kg",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 250gm, 500gm, 1kg"]
+    },
+    {
+      "id": "Fatrixa_Plus",
+      "slug": "fatrixa-plus",
+      "category": "Cattle",
+      "name": "FATRIXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Fatrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Fatrixa_Plus/info_image.jpg",
+      "heroTitle": "SHREEM FATRIXA PLUS",
+      "subtitle": "Advanced Bypass Fat Energy Formula for Higher Milk Yield, Improved Fat % & Optimal Energy Balance",
+      "description": [
+        "Shreem Fatrixa Plus is a premium quality bypass fat supplement specially designed to meet the high energy demands of dairy cattle during early lactation and peak production stages. Formulated with rumen-protected fat, it ensures efficient energy delivery without disturbing normal rumen function. This advanced formula helps improve milk yield and milk fat percentage while preventing negative energy balance, body weight loss, and metabolic disorders like ketosis. It also supports better reproductive performance and overall health in high-yielding animals. With consistent supplementation, Shreem Fatrixa Plus enhances feed efficiency, boosts productivity, and ensures sustained performance, making it an essential nutritional solution for modern dairy farming."
+      ],
+      "composition": [
+        {
+          "ingredient": "Rumen Bypass Fat",
+          "value": "15 gm"
+        },
+        {
+          "ingredient": "Rumen Bypass Protein",
+          "value": "1 gm"
+        },
+        {
+          "ingredient": "Calcium Propionate",
+          "value": "2 gm"
+        },
+        {
+          "ingredient": "Live Yeast Culture",
+          "value": "5 gm"
+        },
+        {
+          "ingredient": "Calcium",
+          "value": "1.5 gm"
+        },
+        {
+          "ingredient": "Jivanti",
+          "value": "1500 mg"
+        },
+        {
+          "ingredient": "Shatavari",
+          "value": "1500 mg"
+        },
+        {
+          "ingredient": "Bioactive Chromium",
+          "value": "40 mg"
+        },
+        {
+          "ingredient": "Amino Acid",
+          "value": "40 mg"
+        }
+      ],
+      "benefits": [
+        "Enhances milk production.",
+        "Improves digestion and gut health.",
+        "Boosts energy and body condition.",
+        "Strengthens immunity and resistance power.",
+        "Supports reproductive health and fertility."
+      ],
+      "indications": [],
+      "dosage": [
+        "Large Animals (Cow/Buffalo):",
+        "100 gm twice daily for 1 week after calving.",
+        "100 gm daily for the next four weeks.",
+        "100 gm daily for 15 days before calving.",
+        "Mix 1 kg/ 100 kg of feed."
+      ],
+      "packing": "1kg, 5kg, 25kg",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 1kg, 5kg, 25kg"]
+    },
+    {
+      "id": "Grovtrixa_Plus",
+      "slug": "grovtrixa-plus",
+      "category": "Cattle",
+      "name": "GROVTRIXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Grovtrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Grovtrixa_Plus/info_image.jpg",
+      "heroTitle": "SHREEM GROVTRIXA PLUS",
+      "subtitle": "Advanced Growth Promoter for Faster Weight Gain, Improved Feed Efficiency & Superior Dairy Performance",
+      "description": [
+        "Shreem Grovtrixa Plus is a scientifically formulated growth promoter designed to enhance growth rate, feed efficiency, and overall productivity in dairy cattle. It combines essential nutrients, growth-supporting factors, and metabolic enhancers to ensure optimal development and performance. This advanced formulation helps improve nutrient utilization, supports healthy digestion, and promotes faster body weight gain in growing animals. In lactating cattle, it contributes to better milk production and sustained performance by improving overall metabolic efficiency. Regular use of Shreem Grovtrixa Plus leads to stronger, healthier, and more productive animals, making it an ideal solution for modern livestock farming focused on profitability and performance."
+      ],
+      "composition": [
+        {
+          "ingredient": "Pyridoxine HCL",
+          "value": "4 mg"
+        },
+        {
+          "ingredient": "Niacinamide",
+          "value": "15 mg"
+        },
+        {
+          "ingredient": "Cyanocobalamine",
+          "value": "1.5 mcg"
+        },
+        {
+          "ingredient": "Protein Hydrolysate",
+          "value": "50 mg"
+        },
+        {
+          "ingredient": "Selenium",
+          "value": "2 mg"
+        },
+        {
+          "ingredient": "Amino Acids",
+          "value": "5%"
+        }
+      ],
+      "benefits": [
+        "Promotes faster growth and body weight gain in cattle",
+        "Supports healthy digestion and gut function",
+        "Helps achieve uniform growth in young animals",
+        "Supports better reproductive health and fertility"
+      ],
+      "indications": [
+        "Enhances nutrient absorption and utilization",
+        "Boosts immunity and disease resistance",
+        "Increases milk yield and overall productivity",
+        "Reduces stress and improves overall performance"
+      ],
+      "dosage": [
+        "Calves (3–12 months): 10–15 grams per animal per day",
+        "Growing Heifers: 20–25 grams per animal per day",
+        "Adult Cattle (Maintenance): 25–30 grams per animal per day"
+      ],
+      "packing": "250ml, 500ml, 1ltr",
+      "shelfLife": "12 Months",
+      "additional": ["Available Pack Size: 250ml, 500ml, 1ltr"]
+    },
+    {
+      "id": "Ionexa_Gel",
+      "slug": "ionexa-gel",
+      "category": "Cattle",
+      "name": "IONEXA GEL",
+      "cover": "new-shreemvet/Products/Cattle/Ionexa_Gel/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Ionexa_Gel/info_image.jpg",
+      "heroTitle": "SHREEM IONEXA GEL",
+      "subtitle": "Fast Rehydration. Instant Energy. Superior Recovery.",
+      "description": [
+        "Shreem Ionexa Gel is an advanced ionic rehydration gel specially formulated for cattle to restore electrolyte balance, boost energy levels, and support rapid recovery during stress, dehydration, heat load, and illness. Enriched with essential electrolytes, energy boosters, and vital nutrients, it ensures quick absorption and immediate action. Ideal for use during transportation, heat stress, post-calving weakness, diarrhea, and reduced feed intake, Shreem Ionexa Gel helps maintain optimum hydration, improves vitality, and enhances overall animal performance. Its easy-to-administer gel format ensures convenience and effective dosing even in weak or off-feed animals."
+      ],
+      "composition": [
+        {
+          "ingredient": "Ionic Calcium",
+          "value": "7200 mg"
+        },
+        {
+          "ingredient": "Phosphorus",
+          "value": "3600 mg"
+        },
+        {
+          "ingredient": "Vitamin D3",
+          "value": "5000 IU"
+        },
+        {
+          "ingredient": "Vitamin B12",
+          "value": "400 mcg"
+        },
+        {
+          "ingredient": "Magnesium",
+          "value": "300 mg"
+        },
+        {
+          "ingredient": "Carbohydrate",
+          "value": "25000 mg"
+        },
+        {
+          "ingredient": "Biotin",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Cobalt",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Zinc",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Manganses",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "L Lysine",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Puerania Tuberosa",
+          "value": "Q.S."
+        },
+        {
+          "ingredient": "Puraniamififica",
+          "value": "Q.S."
+        }
+      ],
+      "benefits": [
+        "Strengthens bones",
+        "Boosts immune system",
+        "Increases energy and appetite",
+        "Prevents magnesium deficiency",
+        "Improves milk production"
+      ],
+      "indications": [
+        "Prevents Milk Fever, Hypocalcaemia & Rickets.",
+        "Increase mobilization of calcium from bone to blood.",
+        "Vitamin D3 ensures maximum absorption of calcium in the intestine."
+      ],
+      "dosage": [
+        "Regular USe: 300gm before & 300gm after 6 hours of parturition. (or as directed by veterinarian)",
+        "To Prevent Milk Fever: Give 300gm after 6 hours of I.V. in fusion, followed by another 300gm after next 6 hours. (or as directed by veterinarian)"
+      ],
+      "packing": "300ml",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 300ml"]
+    },
+    {
+      "id": "Livexon_Plus",
+      "slug": "livexon-plus",
+      "category": "Cattle",
+      "name": "LIVEXON PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Livexon_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Livexon_Plus/info_image.jpg",
+      "heroTitle": "SHREEM LIVEXON PLUS",
+      "subtitle": "Powerful Liver Protection • Better Digestion • Higher Productivity",
+      "description": [
+        "Shreem Livexon Plus is an advanced liver tonic specially formulated for cattle to support optimal liver function, detoxification, and improved metabolic efficiency. Enriched with potent herbal extracts and essential nutrients, it helps stimulate appetite, enhance digestion, and promote better nutrient utilization. This powerful formulation is ideal for lactating animals, growing calves, and stressed cattle, aiding in faster recovery from toxin exposure, feed-related stress, and liver dysfunction. It supports improved milk yield, better feed conversion, and overall health performance. With its highly palatable liquid form and fast-acting ingredients, Shreem Livexon Plus ensures effective liver care, making it an essential supplement for maintaining productivity and wellness in modern dairy farming."
+      ],
+      "composition": [
+        {
+          "ingredient": "Liver Extract",
+          "value": "1000 mg"
+        },
+        {
+          "ingredient": "Choline Chloride",
+          "value": "5000 mg"
+        },
+        {
+          "ingredient": "DL Methionine",
+          "value": "5000 mg"
+        },
+        {
+          "ingredient": "L Lysine",
+          "value": "5000 mg"
+        },
+        {
+          "ingredient": "Inositol",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Biotin",
+          "value": "5 mg"
+        },
+        {
+          "ingredient": "Vitamin B1",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Vitamin B2",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Vitamin D3",
+          "value": "1200 mg"
+        },
+        {
+          "ingredient": "Vitamin B6",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Nicotinamide",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Threonine",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Tryptophan",
+          "value": "100 mg"
+        },
+        {
+          "ingredient": "Terminaliabellirica",
+          "value": "1000 mg"
+        },
+        {
+          "ingredient": "Andrographis Paniculata",
+          "value": "1000 mg"
+        }
+      ],
+      "benefits": [
+        "Supports Liver Function",
+        "Aids Detoxification",
+        "Boosts Immunity",
+        "Improves Digestion",
+        "Enhances Milk Production"
+      ],
+      "indications": [
+        "To help maintain normal Liver function.",
+        "For promotes digestion & overall health.",
+        "Boost up Immunity & improves appetite.",
+        "Increase growth promotes weight gain.",
+        "For liver metabolism stimulant for better production & performance."
+      ],
+      "dosage": [
+        "Cow/Buffalo: 50ml daily",
+        "Calf & Pig: 25ml daily",
+        "Sheep/Goat: 25ml daily",
+        "Chicks & Broilers: 5-10ml daily (each 100 birds)"
+      ],
+      "packing": "250ml, 500ml, 1ltr, 5ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 250ml, 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Toxtrixa_Plus",
+      "slug": "toxtrixa-plus",
+      "category": "Cattle",
+      "name": "TOXTRIXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Toxtrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Toxtrixa_Plus/info_image.jpg",
+      "heroTitle": "SHREEM TOXTRIXA PLUS",
+      "subtitle": "Advanced Mycotoxin Binder for Superior Feed Safety, Liver Protection & Enhanced Dairy Performance",
+      "description": [
+        "Shreem Toxtrixa Plus is a scientifically developed toxin binder formulated to effectively bind and neutralize harmful mycotoxins present in animal feed. Mycotoxins such as aflatoxins, ochratoxins, and other fungal toxins can severely impact animal health, productivity, and profitability. This advanced formulation combines high-quality toxin-binding agents with supportive components to protect the liver, strengthen immunity, and improve overall animal performance. It helps in reducing the toxic load, enhancing nutrient utilization, and maintaining feed quality. Regular use of Shreem Toxtrixa Plus ensures safer feed consumption, improved milk yield, better reproductive efficiency, and healthier animals, making it an essential solution for modern dairy farming."
+      ],
+      "composition": [
+        {
+          "ingredient": "Yeast",
+          "value": "2%"
+        },
+        {
+          "ingredient": "MOS",
+          "value": "2%"
+        },
+        {
+          "ingredient": "Calcium Propionate",
+          "value": "5%"
+        },
+        {
+          "ingredient": "Copper Sulphate",
+          "value": "2%"
+        },
+        {
+          "ingredient": "Activated Charcoal",
+          "value": "3%"
+        },
+        {
+          "ingredient": "HSCAS",
+          "value": "Q.S."
+        }
+      ],
+      "benefits": [
+        "Enhances nutrient absorption and feed efficiency",
+        "Reduces risk of toxin-related health disorders",
+        "Supports better reproductive performance",
+        "Improves overall animal health and performance"
+      ],
+      "indications": [
+        "Effectively binds and neutralizes mycotoxins (aflatoxin, ochratoxin, etc.)",
+        "Protects liver function and supports detoxification",
+        "Enhances immunity and disease resistance",
+        "Improves feed quality and safety",
+        "Increases milk yield and overall productivity"
+      ],
+      "dosage": [
+        "Cattle: 500gm-1kg per ton feed (or as directed by veterinarian)"
+      ],
+      "packing": "250gm, 500gm, 1kg",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 250gm, 500gm, 1kg"]
+    },
+    {
+      "id": "Uterofix_Powder",
+      "slug": "uterofix-powder",
+      "category": "Cattle",
+      "name": "UTEROFIX POWDER",
+      "cover": "new-shreemvet/Products/Cattle/Uterofix_Powder/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Uterofix_Powder/info_image.jpg",
+      "heroTitle": "SHREEM UTEROFIX POWDER",
+      "subtitle": "Strong Support for Uterine Stability & Faster Recovery",
+      "description": [
+        "Shreem Uterofix Powder is a scientifically formulated uterine support supplement designed to aid in the management and prevention of prolapse in cattle. It helps in improving uterine tone, strengthening reproductive tissues, and promoting faster recovery after calving or prolapse conditions. Enriched with essential minerals, herbal extracts, and supportive nutrients, it ensures optimal reproductive health, reduces recurrence risk, and enhances overall productivity of dairy animals. Ideal for use during pre- and post-calving periods, Shreem Uterofix Powder is a reliable solution for maintaining uterine integrity and animal well-being."
+      ],
+      "composition": [
+        { "ingredient": "DI Calcium Phosphate", "value": "120 gm" },
+        { "ingredient": "Magnesium", "value": "60 gm" },
+        { "ingredient": "Vitamin E", "value": "20000 IU" },
+        { "ingredient": "Selenium", "value": "40 mg" },
+        { "ingredient": "Zinc", "value": "4 gm" },
+        { "ingredient": "Uterine Extract", "value": "50 gm" },
+        { "ingredient": "Probiotics & Yeast Culture", "value": "25 gm" },
+        { "ingredient": "Shatavari Extract", "value": "70 gm" },
+        { "ingredient": "Ashoka Extract", "value": "100 gm" },
+        { "ingredient": "Lodhra Extract", "value": "80 gm" }
+      ],
+      "benefits": [
+        "Boosts Immunity",
+        "Reduces Inflammation",
+        "Improves Digestion",
+        "Enhances Reproductive Health",
+        "Increases Strength and Energy"
+      ],
+      "indications": [
+        "Helps in the proper involution of uterus and vagina to its anatomical position.",
+        "Increases uterine muscle tone and strengthens the uterus, thus reducing the chances of reoccurrence.",
+        "Effective in both pre-partum and post-partum prolapse. Safe for pregnant animals."
+      ],
+      "dosage": [
+        "In Large Animals: 50 gm powder twice daily should be given with 250 gm mustard oil or water for 3 days.",
+        "In Small Animals: 25 gm powder twice daily should be given with 125 gm mustard oil or water for 3 days."
+      ],
+      "packing": "250gm, 500gm, 1kg",
+      "shelfLife": "24 Months",
+      "additional": ["Available Pack Size: 250gm, 500gm, 1kg"]
+    },
+    {
+      "id": "Uteronexa_Plus",
+      "slug": "uteronexa-plus",
+      "category": "Cattle",
+      "name": "UTERONEXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Uteronexa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Uteronexa_Plus/info_image.jpg",
+      "heroTitle": "SHREEM UTERONEXA PLUS",
+      "subtitle": "Restore Uterine Health, Enhance Fertility, Ensure Better Conception",
+      "description": [
+        "Shreem Vet Industries brings you an advanced uterine tonic specially formulated to support reproductive health and optimize fertility in cattle. This scientifically balanced formulation helps in uterine cleansing, promotes faster involution after calving, and aids in the management of common reproductive disorders such as retained placenta, metritis, and repeat breeding. Enriched with powerful herbal extracts, essential nutrients, and reproductive stimulants, it enhances uterine tone, improves hormonal balance, and prepares the animal for successful conception. Regular use supports better reproductive efficiency, reduces calving intervals, and ensures improved productivity for dairy farmers. An ideal solution for maintaining a healthy uterus, boosting fertility, and achieving consistent breeding success in cattle."
+      ],
+      "composition": [
+        {
+          "ingredient": "Ferric Ammonium Citrate",
+          "value": "40 mg"
+        },
+        {
+          "ingredient": "Manganese Sulphate",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Folic Acid",
+          "value": "10 mg"
+        },
+        {
+          "ingredient": "Sodium Selenate",
+          "value": "1 mg"
+        },
+        {
+          "ingredient": "Propylene Glycol",
+          "value": "20%"
+        },
+        {
+          "ingredient": "Saracaindica",
+          "value": "2000 mg"
+        },
+        {
+          "ingredient": "Asparagus Racemosus",
+          "value": "1500 mg"
+        },
+        {
+          "ingredient": "Lodhra Extract",
+          "value": "1500 mg"
+        },
+        {
+          "ingredient": "Aloevera Extract",
+          "value": "1000 mg"
+        },
+        {
+          "ingredient": "Utrine Stimulant Blend",
+          "value": "Q.S."
+        },
+        {
+          "ingredient": "Vitamin E",
+          "value": "200 mg"
+        },
+        {
+          "ingredient": "Potassium Iodide",
+          "value": "100 mg"
+        }
+      ],
+      "benefits": [
+        "Improves reproductive health",
+        "Boosts immunity",
+        "Reduces physical weakness",
+        "Supports milk production",
+        "Improves digestion"
+      ],
+      "indications": [
+        "Facilitates Retention of Placenta (ROP).",
+        "Total Cleansing of Uterus.",
+        "Increases milk quantity & quality after Parturition.",
+        "Cure delayed involution of Uterus.",
+        "Prevents Silent Heat & Repeat Breeding.",
+        "As prophylactic after Parturition: For timely Expulsion of placenta, lochial discharge & timely involution of Uterus."
+      ],
+      "dosage": [
+        "Cow/Buffalo: 50-60ml daily",
+        "Calf & Pig: 10-20ml daily",
+        "Sheep/Goat: 10-20ml daily",
+        "Female Camel: 60-75ml daily"
+      ],
+      "packing": "250ml, 500ml, 1ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 250ml, 500ml, 1ltr"]
+    },
+    {
+      "id": "Acidixa_Plus",
+      "slug": "acidixa-plus",
+      "category": "Poultry",
+      "name": "ACIDIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Acidixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Acidixa_Plus/info_image.png",
+      "heroTitle": "SHREEM ACIDIXA PLUS",
+      "subtitle": "Powerful Water Acidifier for Better Gut Health & Maximum Performance",
+      "description": [
+        "Shreem Acidixa Plus is a scientifically advanced water acidifier specially formulated to improve gut health, enhance digestion, and control harmful microbial load in poultry. It contains a balanced blend of organic and inorganic acids that effectively reduce water pH, creating an unfavorable environment for pathogenic bacteria while promoting beneficial gut microflora. This powerful formulation supports better nutrient absorption, improves feed efficiency, and helps birds perform optimally under stress conditions such as heat, vaccination, and disease challenges."
+      ],
+      "composition": [
+        { "ingredient": "Citric Acid", "value": "160 gm" },
+        { "ingredient": "Formic Acid", "value": "150 gm" },
+        { "ingredient": "Lactic Acid", "value": "60 gm" },
+        { "ingredient": "Propionic Acid", "value": "160 gm" },
+        { "ingredient": "Buffered Salts & Stabilizers", "value": "Q.S." },
+        { "ingredient": "Excipients", "value": "Q.S." },
+        { "ingredient": "Essential Trace Minerals", "value": "Q.S." }
+      ],
+      "benefits": [
+        "Maintains healthy intestinal pH.",
+        "Supports optimum performance & enzyme activity.",
+        "Controls harmful bacteria like salmonella & E.coli.",
+        "Improves digestion & nutrient absorption.",
+        "Promotes eggshell quality & overall growth."
+      ],
+      "dosage": [
+        "For Feed (Broilers/Layers): 50ml-1ltr per ton of feed (or as directed by veterinarian)",
+        "Breeders: 1-1.5ltr per ton of feed (mix the volume with 5-15ltr of water & sprinkle on feed for uniform mixing)",
+        "For Drinking Water: 0.25-0.5ml per ltr of drinking water (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Caltrixa_Plus",
+      "slug": "caltrixa-plus",
+      "category": "Poultry",
+      "name": "CALTRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Caltrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Caltrixa_Plus/info_image.png",
+      "heroTitle": "SHREEM CALTRIXA PLUS",
+      "subtitle": "Advanced Calcium & Phosphorus Formula for Strong Bones, Better Growth & Optimum Poultry Performance",
+      "description": [
+        "Shreem Caltrixa Plus is a scientifically balanced liquid supplement of Calcium and Phosphorus, specially formulated to support strong skeletal development, improved growth, and enhanced productivity in poultry. It plays a vital role in maintaining bone strength, eggshell quality, and overall metabolic functions in birds. In modern poultry production, rapid growth rates and high egg production demand optimal mineral nutrition. Deficiency of calcium and phosphorus can lead to weak bones, poor weight gain, lameness, and reduced eggshell quality. Shreem Caltrixa Plus helps in maintaining the correct mineral balance, ensuring proper bone formation and structural integrity. Its highly bioavailable formulation promotes better absorption and utilization of essential minerals, leading to improved growth performance, stronger bones, and higher production efficiency. Regular supplementation supports healthy, active birds with improved feed conversion and overall farm profitability."
+      ],
+      "composition": [
+        {
+          "ingredient": "Calcium, Phosphorus, Vit. A, Vit. d3, Vit. B12, Sodium, Magnesium, Manganese, Zinc, Copper",
+          "value": "Each 100ml"
+        }
+      ],
+      "benefits": [
+        "Essential for preventing 'Cage Layer Fatigue' and rickets in fast-growing broilers.",
+        "High levels of Manganese and Zinc prevent tendon slipping (Perosis) and lameness, ensuring birds stay mobile and reach feed/water easily.",
+        "Provides breeders with the necessary mineral reserves to ensure strong embryo development and high hatch percentages.",
+        "Superior eggshell quality.",
+        "Skeletal integrity.",
+        "Leg strength.",
+        "Hatchability booster.",
+        "Stress recovery."
+      ],
+      "indications": [],
+      "dosage": [
+        "Chicks: 15ml/100 birds per day (or as directed by veterinarian)",
+        "Growers: 30ml/100 birds per day (or as directed by veterinarian)",
+        "Layers: 60ml/100 birds per day (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Cenvitrixa_Plus",
+      "slug": "cenvitrixa-plus",
+      "category": "Poultry",
+      "name": "CENVITRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Cenvitrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Cenvitrixa_Plus/info_image.png",
+      "heroTitle": "SHREEM CENVITRIXA PLUS",
+      "subtitle": "Advanced Vitamin C Solution for Stress Relief, Immunity Boost & Peak Poultry Performance",
+      "description": [
+        "Shreem Cenvitrix Plus is a high-quality Vitamin C (Ascorbic Acid) liquid supplement specially designed to support poultry during stress conditions and enhance overall immunity. In modern poultry farming, birds are frequently exposed to stress factors such as heat, vaccination, transportation, and disease challenges, which can negatively impact growth and productivity. Shreem Cenvitrix Plus helps in reducing stress by improving the bird's natural defense system and maintaining physiological balance. It plays a crucial role in boosting immunity, improving feed intake, and enhancing resistance against infections. Regular use helps improve flock health, survivability, and overall production efficiency."
+      ],
+      "composition": [
+        { "ingredient": "Vitamin A", "value": "20,000 IU" },
+        { "ingredient": "Vitamin D3", "value": "10,000 IU" },
+        { "ingredient": "Vitamin E", "value": "50 mg" },
+        { "ingredient": "Vitamin B12", "value": "20 mcg" },
+        { "ingredient": "Vitamin H", "value": "30 mcg" },
+        { "ingredient": "Ascorbic Acid", "value": "200 mg" },
+        { "ingredient": "Withania somnifera", "value": "10 mg" },
+        { "ingredient": "Embica officinalis", "value": "10 mg" },
+        { "ingredient": "Excipients", "value": "Q.S." }
+      ],
+      "benefits": [
+        "Enhances iron absorption and maintains overall health.",
+        "Reduces oxidative damage caused by environmental factors.",
+        "Enhances egg production, egg weight, and shell quality in layers.",
+        "Protects birds from stress due to temperature fluctuations, feed changes, or high production cycles.",
+        "Bioflavonoids offer superior antioxidant strength compared to common synthetic options."
+      ],
+      "indications": [
+        "Immunity Boost.",
+        "Production Support.",
+        "Growth Promotion.",
+        "Cellular Protection.",
+        "To aid faster recovery after illness.",
+        "Heat & Environmental Stress."
+      ],
+      "dosage": [
+        "Chicks: 5/100 birds per day (or as directed by veterinarian)",
+        "Growers: 7ml/per 100 birds per day (or as directed by veterinarian)",
+        "Layers: 10ml/100 birds per day (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Coccikill",
+      "slug": "coccikill",
+      "category": "Poultry",
+      "name": "COCCIKILL",
+      "cover": "new-shreemvet/Products/Poultry/Coccikill/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Coccikill/info_image.png",
+      "heroTitle": "SHREEM COCCIKILL",
+      "subtitle": "Ensuring Better Gut Health & Higher Productivity",
+      "description": [
+        "Shreem Coccikill is an advanced and highly effective poultry health supplement specially formulated for the prevention and control of coccidiosis in poultry. Developed by Shreem Vet Industries, it offers a reliable and sustainable solution to manage intestinal health and improve overall bird performance. Coccidiosis is one of the most common and economically significant diseases affecting poultry, leading to poor growth, reduced feed efficiency, and increased mortality. Shreem Coccikill works by targeting and controlling coccidial infection, thereby supporting better nutrient absorption and faster growth."
+      ],
+      "composition": [
+        { "ingredient": "Vitamin A", "value": "10,00000 IU" },
+        { "ingredient": "Viyamin K", "value": "10 gm" },
+        { "ingredient": "Vitamin D3", "value": "200000 IU" },
+        { "ingredient": "Vitamin B12", "value": "500 mcg" },
+        { "ingredient": "Vitamin E", "value": "1000 mg" },
+        { "ingredient": "Mannan Oligosaccharides", "value": "300 gm" },
+        { "ingredient": "Fructo Oligosaccharides", "value": "100 gm" },
+        { "ingredient": "Excipients", "value": "Q.S." }
+      ],
+      "benefits": [
+        "Effective prevention and control of coccidiosis.",
+        "Helps reduce intestinal lesions and oocyst shedding.",
+        "Protects against secondary bacterial infections.",
+        "Enhance gut integrity and nutrient absorption.",
+        "Boosts immune response with vitamins and probiotics."
+      ],
+      "dosage": [
+        "Prevention: 10ml/100 birds daily (or as directed by veterinarian)",
+        "Treatment: 30ml/100 birds daily for 3-5 days (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Cufrixa_Plus",
+      "slug": "cufrixa-plus",
+      "category": "Poultry",
+      "name": "CUFRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Cufrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Cufrixa_Plus/info_image.png",
+      "heroTitle": "SHREEM CUFRIXA PLUS",
+      "subtitle": "Advanced Respiratory Support Formula for Fast Relief from Cough & Breathing Stress in Poultry",
+      "description": [
+        "Shreem Cufrixa Plus is a scientifically formulated respiratory support powder designed to help manage cough, breathing discomfort, and respiratory stress in poultry. It works effectively to soothe irritated airways, reduce congestion, and promote easier breathing, ensuring better comfort and health of birds. Its balanced formulation supports the respiratory system during challenging conditions such as seasonal changes, ammonia exposure, dust, and infectious stress. By improving oxygen intake and reducing respiratory load, Shreem Cufrixa Plus helps maintain optimal growth, feed intake, and overall flock performance."
+      ],
+      "composition": [
+        { "ingredient": "Vitamin C", "value": "20 gm" },
+        { "ingredient": "Electrolyte Blend", "value": "Q.S." },
+        { "ingredient": "Tylosin Tartrate", "value": "50 gm" },
+        { "ingredient": "Zingiber Officinale", "value": "40 gm" },
+        { "ingredient": "Piper Nigerum", "value": "20 gm" },
+        { "ingredient": "Base Powder", "value": "Q.S." }
+      ],
+      "benefits": [
+        "Quickly thins/expels mucus and relieves gasping and rattling.",
+        "Dilates air passages for effortless breathing and oxygenation.",
+        "Herbs provide a protective coating to the respiratory tract.",
+        "Boosts natural resistance to environmental pathogens.",
+        "Relieving distress ensures birds continue feeding actively."
+      ],
+      "indications": [
+        "Relieves severe respiratory distress.",
+        "Thins and expels thick mucus.",
+        "Reduces severe coughing and gasping.",
+        "Clears blocked respiratory air passages.",
+        "Relieves dangerous respiratory rattling.",
+        "Improves poor oxygenation levels.",
+        "Fights harmful environmental pathogens.",
+        "Restores active feeding behavior."
+      ],
+      "dosage": [
+        "Chicks: 50gm/1000 birds (or as directed by veterinarian)",
+        "Broilers/Growers: 100gm/1000 birds (or as directed by veterinarian)",
+        "Layers: 150-200gm/100 birds (or as directed by veterinarian)"
+      ],
+      "packing": "500gm, 1kg, 5kg",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500gm, 1kg, 5kg"]
+    },
+    {
+      "id": "Cuprixa_Plus",
+      "slug": "cuprixa-plus",
+      "category": "Poultry",
+      "name": "CUPRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Cuprixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Cuprixa_Plus/info_image.png",
+      "heroTitle": "SHREEM CUPRIXA PLUS",
+      "subtitle": "Advanced Copper-Based Solution for Effective Control of Fungal & Water-Borne Challenges in Poultry",
+      "description": [
+        "Shreem Cuprixa Plus is a scientifically formulated copper sulphate-based solution designed to support optimal hygiene and health management in poultry farms. It plays a vital role in controlling fungal growth, improving water sanitation, and maintaining a cleaner environment for birds. With its strong antimicrobial and antifungal properties, Shreem Cuprixa Plus helps reduce the load of harmful pathogens in drinking water systems, thereby promoting better gut health and overall performance of poultry. It is especially useful during conditions of high humidity and contamination risk, where fungal challenges are common. Manufactured with precision and quality standards by Shreem Vet Industries, this solution ensures reliable efficacy, easy solubility, and safe usage when applied as recommended. It is an essential addition to modern poultry management practices aimed at improving productivity and flock well-being."
+      ],
+      "composition": [
+        { "ingredient": "Copper Sulphate", "value": "5%" },
+        { "ingredient": "Stabilizing Agents", "value": "Q.S." }
+      ],
+      "benefits": [
+        "It has antibacterial and anti-fungal properties that can help in preventing infections in chickens.",
+        "Enhances water quality & palatability.",
+        "It promotes growth in chickens.",
+        "It helps in absorption of iron which helps in formation of red blood cells in chickens.",
+        "It boosts immune system of chicken and made them able to fight with infections and diseases."
+      ],
+      "indications": [
+        "Helps control fungal contamination in drinking water.",
+        "Supports prevention of crop mycosis and related issues.",
+        "Improves water hygiene and reduces microbial load.",
+        "Useful during high humidity and rainy seasons."
+      ],
+      "dosage": [
+        "General use: 1-3ml per 2-3 ltr of drinking water (or as directed by veterinarian)",
+        "Contamination: 3-5ml per 2-3 ltr of drinking water (or as directed by veterinarian)",
+        "As a Preventive: Use 2-3 times per week (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Growvixa_Plus",
+      "slug": "growvixa-plus",
+      "category": "Poultry",
+      "name": "GROWVIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Growvixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Growvixa_Plus/Screenshot 2026-06-09 120313.png",
+      "heroTitle": "SHREEM GROWVIXA PLUS",
+      "subtitle": "For Rapid Chick Growth & Higher Egg Production",
+      "description": [
+        "Shreem Growvixa Plus is an advanced, scientifically formulated poultry growth promoter designed to maximize growth performance, improve feed efficiency, and enhance overall flock health. Enriched with essential amino acids, vitamins, liver stimulants, and gut health enhancers, it supports optimal nutrient utilization and boosts metabolic activity in poultry. This powerful formulation helps birds achieve faster and uniform growth while strengthening their immunity and resistance against stress conditions such as heat, vaccination, and transportation."
+      ],
+      "composition": [
+        { "ingredient": "Biotin", "value": "250 mcg" },
+        { "ingredient": "Cholin Chloride", "value": "500 mcg" },
+        { "ingredient": "L Lysine", "value": "750 mg" },
+        { "ingredient": "DL Methionine", "value": "500 mg" },
+        { "ingredient": "Selenium", "value": "500 mg" },
+        { "ingredient": "Vitamin A", "value": "3750000 IU" },
+        { "ingredient": "Vitamin B12", "value": "10 mg" },
+        { "ingredient": "Vitamin C", "value": "500 mg" },
+        { "ingredient": "Vitamin D3", "value": "750000 IU" },
+        { "ingredient": "Vitamin E", "value": "150 mg" },
+        { "ingredient": "Vitamin K", "value": "750 mg" }
+      ],
+      "benefits": [
+        "It should be given during pre and post vaccination stress, climatic changes, debeaking, deworming and transportation.",
+        "During supressed growth, slump in head production in layers and breeders.",
+        "It gives benefits in crazy chicks disease and improves growth hatchability, fertility and production in poulty and livestock.",
+        "Maintains overall health, helps in healthy pregnancy improve fertility and milk production."
+      ],
+      "dosage": [
+        "Chicks: 5ml/100 birds daily (or as directed by veterinarian)",
+        "Broilers/Growers: 7ml/100 birds daily (or as directed by veterinarian)",
+        "Layers: 10ml/100 birds daily (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Heatrelixa_Plus",
+      "slug": "heatrelixa-plus",
+      "category": "Poultry",
+      "name": "HEATRELIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Heatrelixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Heatrelixa_Plus/info_image.png",
+      "heroTitle": "SHREEM HEATRELIXA PLUS",
+      "subtitle": "A high-performance heat stress management liquid",
+      "description": [
+        "Shreem Heatrelixa Plus is a specially formulated veterinary solution designed to combat heat stress in poultry birds during high-temperature and humid conditions. Heat stress is one of the major challenges in poultry farming, leading to reduced feed intake, poor growth rate, decreased egg production, and higher mortality. Shreem Heatrelixa Plus helps maintain the bird's physiological balance by supporting thermoregulation, improving hydration status, and enhancing electrolyte balance. It supports better feed conversion ratio (FCR), reduces stress-related weakness, and helps birds maintain normal productivity even under harsh summer conditions."
+      ],
+      "composition": [
+        { "ingredient": "Sodium Chloride", "value": "2%" },
+        { "ingredient": "Potassium Chloride", "value": "1%" },
+        { "ingredient": "Sodim Bicarbonate", "value": "1%" },
+        { "ingredient": "Dextrose", "value": "10%" },
+        { "ingredient": "Vitamin C", "value": "10%" },
+        { "ingredient": "Magnesium Sulphate", "value": "0.5%" },
+        { "ingredient": "Vitamin E", "value": "1%" },
+        { "ingredient": "Vitamin B Complex", "value": "1%" },
+        { "ingredient": "Copper Sulphate", "value": "1%" },
+        { "ingredient": "Ashwagandha Extract", "value": "0.5%" },
+        { "ingredient": "Tulsi Extract", "value": "0.3%" }
+      ],
+      "benefits": [
+        "Clears air passages and prevents gasping or rattling.",
+        "Provides powerful antimicrobial action against respiratory pathogens.",
+        "Enhances natural defense mechanisms against viral challenges.",
+        "Reduces lung inflammation, improving oxygen exchange efficiency."
+      ],
+      "indications": [
+        "Clears blocked air passages.",
+        "Prevents gasping and rattling.",
+        "Fights harmful respiratory pathogens.",
+        "Reduces severe lung inflammation.",
+        "Clears thick respiratory mucus.",
+        "Combats severe viral outbreaks.",
+        "Improves poor oxygen exchange.",
+        "Boosts weak natural immunity."
+      ],
+      "dosage": [
+        "Chicks: 5ml/100 birds daily (or as directed by veterinarian)",
+        "Broilers/Growers: 10ml/100 birds daily (or as directed by veterinarian)",
+        "Layers: 20ml/100 birds daily (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Hematixa_Plus",
+      "slug": "hematixa-plus",
+      "category": "Poultry",
+      "name": "HEMATIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Hematixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Hematixa_Plus/info_image.png",
+      "heroTitle": "SHREEM HEMATIXA PLUS",
+      "subtitle": "Stronger Blood - Better Growth - Higher Returns",
+      "description": [
+        "Shreem Hematixa Plus is a scientifically formulated haematinic designed to support optimal blood formation and improve overall vitality in poultry. Enriched with essential iron, vitamins, and hematopoietic nutrients, it helps in the efficient production of red blood cells, thereby improving oxygen transport and metabolic efficiency in birds. This advanced formulation is highly effective in managing anemia, weakness, and stress conditions caused by rapid growth, disease challenges, vaccination, and environmental factors. Shreem Hematixa Plus enhances appetite, improves feed utilization, and promotes faster recovery."
+      ],
+      "composition": [
+        { "ingredient": "Ferrous Gluconate", "value": "110 mg" },
+        { "ingredient": "Folic Acid", "value": "15 mg" },
+        { "ingredient": "Vitamin B12", "value": "15 mcg" },
+        { "ingredient": "Cobalt Sulphate", "value": "10 mg" },
+        { "ingredient": "Vitamin B6", "value": "100 mg" },
+        { "ingredient": "Yeast Extract", "value": "100 mg" },
+        { "ingredient": "Choline Chloride", "value": "100 mg" },
+        { "ingredient": "L Lysine", "value": "50 mg" },
+        { "ingredient": "Withania Somnifera", "value": "30 mg" }
+      ],
+      "benefits": [
+        "Improves blood formation & circulation.",
+        "Prevent Anemia & weakness.",
+        "Increase appetite & supports weight gain.",
+        "Boost egg production in poultry.",
+        "Strengthens immunity to fight infections.",
+        "Reduces stress & keeps animals active."
+      ],
+      "dosage": [
+        "Chicks: 5-10ml/100 birds per day (or as directed by veterinarian)",
+        "Growers: 10-20ml/per 100 birds per day (or as directed by veterinarian)",
+        "Layers: 15-30ml/100 birds per day (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Livixa_Plus",
+      "slug": "livixa-plus",
+      "category": "Poultry",
+      "name": "LIVIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Livixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Livixa_Plus/info_image.png",
+      "heroTitle": "SHREEM LIVIXA PLUS",
+      "subtitle": "Optimize Liver Function Maximize Productivity",
+      "description": [
+        "Shreem Livixa Plus is an advanced liver tonic specially formulated to support and enhance liver function in poultry. Enriched with essential nutrients, liver stimulants, and metabolic enhancers, it plays a vital role in detoxification, fat metabolism, and efficient nutrient utilization. The liver is the most important organ for growth and productivity in poultry. Shreem Livixa Plus helps maintain optimal liver health, improves appetite, and ensures better feed conversion, leading to faster growth and improved performance. It is highly beneficial during stress conditions such as heat stress, medication, vaccination, and disease recovery."
+      ],
+      "composition": [
+        { "ingredient": "Tricholine Citrate", "value": "1500 mg" },
+        { "ingredient": "Liver Extract", "value": "200 mg" },
+        { "ingredient": "Inositol", "value": "10 mg" },
+        { "ingredient": "Niacinamide", "value": "25 mg" },
+        { "ingredient": "Protein Hydrolysate", "value": "100 mg" },
+        { "ingredient": "DL Methionine", "value": "100 mg" },
+        { "ingredient": "L Lysine", "value": "100 mg" },
+        { "ingredient": "Yeast Extract", "value": "50 mg" }
+      ],
+      "benefits": [
+        "Maintains healthy liver function for long term productivity.",
+        "Supports faster recovery from stress & infections.",
+        "Improves digestion & nutrient absorption.",
+        "Strengthens immunity for better disease resistance."
+      ],
+      "indications": [],
+      "dosage": [
+        "Chicks: 5ml/100 birds per day (or as directed by veterinarian)",
+        "Growers: 15ml/100 birds per day (or as directed by veterinarian)",
+        "Layers: 20ml/100 birds per day (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Renatrixa_Plus",
+      "slug": "renatrixa-plus",
+      "category": "Poultry",
+      "name": "RENATRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Renatrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Renatrixa_Plus/info_image.png",
+      "heroTitle": "SHREEM RENATRIXA PLUS",
+      "subtitle": "Advanced Kidney Support & Uric Acid Balance Formula for Healthier, Stress-Free Poultry",
+      "description": [
+        "Shreem Renatrixa Plus is a scientifically developed kidney acidifier and anti-gout formulation designed to maintain optimal renal function and support uric acid balance in poultry. It plays a crucial role in preventing and managing gout conditions, improving kidney health, and enhancing overall bird performance. In modern poultry farming, high-protein diets, rapid growth rates, and environmental stress can lead to kidney overload and uric acid accumulation, resulting in gout and reduced productivity. Shreem Renatrixa Plus helps in maintaining proper acid-base balance, promotes efficient excretion of uric acid, and supports healthy kidney function. Its advanced formulation works to detoxify the system, reduce metabolic stress, and improve hydration status, ensuring better feed efficiency, growth, and livability. Regular use helps birds stay active, reduces mortality associated with kidney disorders, and supports consistent and profitable poultry production."
+      ],
+      "composition": [
+        {
+          "ingredient": "Active Ingredients",
+          "value": "Acetic Acid, Formic Acid, Lactic Acid, Propionic Acid, Citric Acid, Varun Chhal"
+        }
+      ],
+      "benefits": [
+        "To prevent & treat Gout.",
+        "To prevent & treat ascites.",
+        "To prevent & treat urolithiasis.",
+        "Revitalization of kidney functioning."
+      ],
+      "indications": [
+        "Renal Dystrophy",
+        "Ureteral Tumors",
+        "Nephritis",
+        "Toxic Neuropathy",
+        "Nutritional & Metabolic issues",
+        "Infectious kidney problems",
+        "Problems caused by toxins, chemicals, and antibiotics"
+      ],
+      "dosage": [
+        "Chicks: 15ml/100 birds per day (or as directed by veterinarian)",
+        "Growers: 20ml/100 birds per day (or as directed by veterinarian)",
+        "Layers: 30ml/100 birds per day (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Respitrixa_Plus",
+      "slug": "respitrixa-plus",
+      "category": "Poultry",
+      "name": "RESPITRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Respitrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Respitrixa_Plus/info_image.png",
+      "heroTitle": "SHREEM RESPITRIXA PLUS",
+      "subtitle": "Advanced Respiratory Protection for Clear Breathing & Optimal Poultry Performance",
+      "description": [
+        "Shreem Respitrixa Plus is a specialized respiratory support and disinfection solution designed to maintain a healthy respiratory system in poultry. In intensive poultry farming, birds are highly susceptible to respiratory challenges caused by environmental stress, ammonia exposure, dust, and microbial infections, which can severely impact growth and productivity. Shreem Respitrixa Plus works by helping to reduce the microbial load in the respiratory tract while supporting clear airways and improved breathing efficiency. It aids in minimizing respiratory distress, enhancing oxygen utilization, and promoting better overall flock health."
+      ],
+      "composition": [
+        { "ingredient": "Eucalyptos Oil", "value": "3000 mg" },
+        { "ingredient": "Benzalkonium Chloride", "value": "2%" },
+        { "ingredient": "Glutaraldehyde", "value": "2%" },
+        { "ingredient": "Organic Acid", "value": "Q.S." },
+        { "ingredient": "Electrolytes", "value": "Q.S." },
+        { "ingredient": "Vitamin C", "value": "100 mg" }
+      ],
+      "benefits": [
+        "Clears mucus and relieves gasping or rattling sounds.",
+        "Natural defense against bacterial and viral infections.",
+        "Reduces body heat and distress during peak summers.",
+        "Minimizes respiratory stress after vaccinations.",
+        "Improves oxygen intake for higher energy and growth."
+      ],
+      "indications": [
+        "Respiratory distress and sneezing.",
+        "CRD, Coryza, and Bronchitis support.",
+        "Heat and Environmental stress.",
+        "Post-vaccination recovery.",
+        "Improving overall bird performance."
+      ],
+      "dosage": [
+        "Chicks: 5/100 birds per day (or as directed by veterinarian)",
+        "Growers: 7ml/per 100 birds per day (or as directed by veterinarian)",
+        "Layers: 10ml/100 birds per day (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Selenyxa_E_Plus",
+      "slug": "selenyxa-e-plus",
+      "category": "Poultry",
+      "name": "SELENYXA E PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Selenyxa E Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Selenyxa E Plus/info_image.png",
+      "heroTitle": "SHREEM SELENYXA E PLUS",
+      "subtitle": "Powerful Antioxidant Formula for Enhanced Immunity, Fertility & Performance in Poultry",
+      "description": [
+        "Shreem Selenyxa E Plus is a scientifically formulated Vitamin E and Selenium powder designed to support optimal health, immunity, and reproductive performance in poultry. This powerful antioxidant combination helps protect cells from oxidative stress, improves disease resistance, and enhances overall vitality of birds. It plays a crucial role in improving fertility, hatchability, and egg production while supporting muscle development and preventing nutritional deficiencies. Shreem Selenyxa E Plus is especially beneficial during stress conditions such as vaccination, heat stress, and disease challenges, helping birds recover faster and maintain consistent productivity. Manufactured with precision and high-quality standards by Shreem Vet Industries, this product is an essential nutritional supplement for modern poultry farming, ensuring better growth, improved performance, and higher economic returns."
+      ],
+      "composition": [
+        { "ingredient": "Vitamin E", "value": "100 mg" },
+        { "ingredient": "Selenium", "value": "1 mg" }
+      ],
+      "benefits": [
+        "Dramatically enhances antibody production and response to vaccinations.",
+        "Improves sperm quality in roosters and egg fertility/hatchability in breeders.",
+        "Prevents Nutritional Muscular Dystrophy and Exudative Diathesis (edema).",
+        "Protects against Encephalomalacia (Crazy Chick Disease) caused by Vitamin E deficiency.",
+        "Mitigates the cellular damage caused by heat stress, handling, and disease challenges."
+      ],
+      "indications": [
+        "Prevents nutritional muscular dystrophy.",
+        "Prevents crazy chick disease.",
+        "Prevents severe tissue edema.",
+        "Improves low egg hatchability.",
+        "Corrects Vitamin E deficiency.",
+        "Boosts weak vaccine response.",
+        "Combats oxidative stress damage.",
+        "Improves poor carcass quality."
+      ],
+      "dosage": [
+        "General use: 1gm per 2ltr of water (or as directed by veterinarian)",
+        "Severe Heat Stress: 1gm per 1ltr of water (or as directed by veterinarian)"
+      ],
+      "packing": "500gm, 1kg, 5kg",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500gm, 1kg, 5kg"]
+    },
+    {
+      "id": "Selvitrix_Plus",
+      "slug": "selvitrix-plus",
+      "category": "Poultry",
+      "name": "SELVITRIX PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Selvitrix_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Selvitrix_Plus/info_image.png",
+      "heroTitle": "SHREEM SELVITRIX PLUS",
+      "subtitle": "Better Growth & Superior Poultry Performance",
+      "description": [
+        "production. combination of Vitamin E and Selenium designed to poultry. It plays a vital role in reducing stress, vitality.Enriched with essential nutrients, it not only healthier, more active birds with improved for achieving consistent and profitable poultry disease resistance in birds.In modern poultry to environmental changes, overcrowding, and nutritional imbalances, which can weaken immunity and reduce productivity. Shreem Selvitrix Plus protects cells from oxidative damage, supports muscle and nerve function, and promotes overall resistance to diseases, making it an ideal solution Shreem Selvitrix Plus is a scientifically formulated support optimal health, immunity, and productivity in improving growth performance, and enhancing farming, birds are frequently exposed to stress due works as a powerful antioxidant system that improves growth and feed efficiency but also enhances fertility and reproductive performance in breeder birds. Regular supplementation ensures"
+      ],
+      "composition": [
+        {
+          "ingredient": "Antioxidant",
+          "value": "Selenium"
+        },
+        {
+          "ingredient": "Biotin",
+          "value": "Biotin"
+        }
+      ],
+      "benefits": [
+        "*Reduces leg weakness in broilers * Restores energy, strength and vitality * Supports proper body shape and size *Helps birds overcome stress conditions *Boosts disease resistance and immunity * Improves growth, body weight and performance",
+        "Normal molecule How our Product works. Antioxidant",
+        "Freeradical"
+      ],
+      "indications": [],
+      "dosage": [
+        "Layers Chicks Growers 5-10ml/100 birds per day (or is directed by veterinarlan) 15-30ml/100 blrds per day (or in direted by vatarihirlan) 10-20ml/100 birds per day",
+        "Sangrur-Sunam Road RR"
+      ],
+      "packing": "",
+      "shelfLife": "",
+      "additional": []
+    },
+    {
+      "id": "Toxitrix_Plus",
+      "slug": "toxitrix-plus",
+      "category": "Poultry",
+      "name": "TOXITRIX PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Toxitrix_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Toxitrix_Plus/info_image.png",
+      "heroTitle": "SHREEM TOXITRIX PLUS",
+      "subtitle": "Advanced Mycotoxin Binder for Complete Protection Against Feed Toxins & Enhanced Poultry Performance",
+      "description": [
+        "Shreem Toxitrix Plus is a scientifically developed toxin binder designed to effectively adsorb and neutralize harmful mycotoxins present in poultry feed. Its advanced formulation helps protect vital organs such as liver and intestines from toxin damage, ensuring better health and productivity of birds. By binding a wide range of mycotoxins and preventing their absorption in the gastrointestinal tract, Shreem Toxitrix Plus supports improved nutrient utilization, stronger immunity, and enhanced feed efficiency. It plays a crucial role in reducing the negative impact of contaminated feed, including poor growth, reduced egg production, and immunosuppression."
+      ],
+      "composition": [
+        { "ingredient": "Copper Sulphate", "value": "2%" },
+        { "ingredient": "Activated Charcoal", "value": "2%" },
+        { "ingredient": "Calcium Propionate", "value": "6%" },
+        { "ingredient": "MOS", "value": "5%" },
+        { "ingredient": "Yeast", "value": "1%" },
+        { "ingredient": "HSCAS", "value": "Q.S." }
+      ],
+      "benefits": [
+        "HSCAS and Charcoal trap Aflatoxins and chemical toxins.",
+        "Calcium Propionate prevents mold and fungal growth in feed.",
+        "MOS blocks harmful bacteria like E. coli from the gut wall.",
+        "Copper Sulphate provides intensive protection against fungi."
+      ],
+      "indications": [
+        "Prevention of Mycotoxicosis (Aflatoxin, Ochratoxin, etc.).",
+        "High moisture or poor quality feed storage.",
+        "Loose droppings, caking of feed, or reduced appetite.",
+        "Immunosuppression and frequent disease outbreaks.",
+        "Visible mold growth in feed or raw materials."
+      ],
+      "dosage": ["Mix 500gm-1kg per MT of feed or as directed by veterinarian"],
+      "packing": "500gm, 1kg, 5kg",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500gm, 1kg, 5kg"]
+    },
+    {
+      "id": "Toxitrixa_Plus",
+      "slug": "toxitrixa-plus",
+      "category": "Poultry",
+      "name": "TOXITRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Toxitrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Toxitrixa_Plus/info_image.png",
+      "heroTitle": "SHREEM TOXITRIXA PLUS",
+      "subtitle": "Powerful Toxin Control for Healthier, Safer Poultry Performance",
+      "description": [
+        "Shreem Toxitrixa Plus is an advanced liquid toxin binder specially formulated to protect poultry from the harmful effects of mycotoxins and feed contaminants. In modern poultry production, toxin exposure from feed ingredients can lead to poor growth, reduced immunity, liver damage, and decreased productivity. Shreem Toxitrixa Plus works by effectively binding and neutralizing toxins in the gastrointestinal tract, preventing their absorption into the bloodstream. It supports liver function, enhances nutrient utilization, and improves overall bird health and performance. With its fast-acting liquid formulation, Shreem Toxitrixa Plus ensures uniform mixing in drinking water, providing consistent protection across the flock. It is an essential solution for maintaining optimal health, boosting immunity, and maximizing production efficiency in poultry."
+      ],
+      "composition": [
+        {
+          "ingredient": "Key Ingredients",
+          "value": "Yeast Extract Powder, Propionic Acid, Citric Acid, Choline Chloride, Protein Hydrolysate, Copper Sulphate, Phosphoric Acid, Propylene Glycol, Vit. B6, Mananoligosacchrides, Magnesium Chloride"
+        }
+      ],
+      "benefits": [
+        "Neutralizes Aflatoxins, Ochratoxins, and T-2 toxins.",
+        "MOS prevents E. coli and Salmonella colonization.",
+        "Lowers pH to inhibit mold and fungal growth.",
+        "Choline and B6 protect against Fatty Liver Syndrome.",
+        "Protein Hydrolysate ensures rapid recovery from toxicoses.",
+        "Copper Sulphate provides potent protection against fungi."
+      ],
+      "indications": [
+        "Prevention of mycotoxicosis",
+        "High moisture or poor quality feed storage",
+        "Loose droppings, caking of feed or reduced appetite",
+        "Immunosuppression and frequent disease outbreaks",
+        "Visible mold growth in feed or raw materials"
+      ],
+      "dosage": [
+        "In Drinking Water: Mix 1ml/ltr of drinking water (or as directed by veterinarian)",
+        "In Feed: Use 500ml/ton of feed (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "shelfLife": "",
+      "additional": [
+        "Available Pack Size: 500ml, 1ltr, 5ltr",
+        "Application Tip: Dilute the required dose with 5lt of water & sprinkle evenly on the feed, mixing thoroughly."
+      ]
+    },
+    {
+      "id": "Valin-Cool",
+      "slug": "valin-cool",
+      "category": "Poultry",
+      "name": "VALIN-COOL",
+      "cover": "new-shreemvet/Products/Poultry/Valin-Cool/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Valin-Cool/info_image.png",
+      "heroTitle": "SHREEM VALIN-COOL",
+      "subtitle": "Advanced Heat Stress Relief Solution for Improved Comfort, Performance & Productivity in Poultry",
+      "description": [
+        "Shrevalin-Cool is a premium quality liquid formulation specially developed for poultry to provide effective relief from heat stress conditions and maintain normal physiological balance during high environmental temperatures. It helps birds stay hydrated, active, and productive even under extreme weather stress. Formulated with a balanced combination of electrolytes, cooling agents, and supportive nutrients, Shrevalin-Cool aids in restoring fluid and mineral balance, reducing body temperature, and improving feed intake and overall performance. It is highly beneficial during summer seasons, transport stress, vaccination stress, and overcrowded housing conditions where birds are prone to dehydration and heat exhaustion."
+      ],
+      "composition": [
+        { "ingredient": "Calcium Lactate", "value": "2 gm" },
+        { "ingredient": "Sodium Bicarbonate", "value": "2 gm" },
+        { "ingredient": "Vitamin C", "value": "500 mg" },
+        { "ingredient": "Magnesium Sulphate", "value": "5 gm" },
+        { "ingredient": "Potassium Chloride", "value": "5 gm" },
+        { "ingredient": "Sodium Citrate", "value": "3 gm" },
+        { "ingredient": "Sodium Chloride", "value": "3 gm" },
+        { "ingredient": "Dextrose", "value": "Q.S." }
+      ],
+      "benefits": [
+        "Effectively lowers core body temperature and minimizes heat-induced panting.",
+        "Acts as a powerful antioxidant to boost immunity and reduce cortisol levels during stress.",
+        "Bicarbonate prevents respiratory alkalosis and maintains blood stability.",
+        "Rapidly replaces vital minerals lost through increased excretion during heat periods."
+      ],
+      "indications": [
+        "Combats severe summer heat stress.",
+        "Reduces severe heat-induced panting.",
+        "Prevents fatal poultry heat stroke.",
+        "Combats dangerous flock dehydration.",
+        "Lowers high core body temperature.",
+        "Prevents severe respiratory alkalosis.",
+        "Reduces stress-related cortisol levels.",
+        "Rapidly replaces lost vital minerals."
+      ],
+      "dosage": [
+        "General Use: 1gm per 2ltr of water (or as directed by veterinarian)",
+        "Severe Heat Stress: 1gm per 1ltr of water (or as directed by veterinarian)",
+        "Duration: Administer through drinking water for 5-7 days."
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Zymetrix_Plus",
+      "slug": "zymetrix-plus",
+      "category": "Poultry",
+      "name": "ZYMETRIX PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Zymetrix_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Zymetrix_Plus/info_image.png",
+      "heroTitle": "SHREEM ZYMETRIX PLUS",
+      "subtitle": "Advanced Multi-Enzyme Formula for Superior Digestion, Feed Efficiency & Performance in Poultry",
+      "description": [
+        "Shreem Zymetrix Plus is a scientifically developed multi-enzyme powder designed to enhance nutrient utilization and optimize digestive efficiency in poultry. It contains a synergistic blend of essential enzymes that help break down complex feed components such as proteins, carbohydrates, and fibers, ensuring maximum absorption of nutrients. Regular use helps reduce anti-nutritional factors, minimizes digestive stress, and promotes a healthier gut environment. Manufactured with high-quality standards by Shreem Vet Industries, Shreem Zymetrix Plus is a reliable solution for achieving consistent productivity and superior economic returns in poultry farming."
+      ],
+      "composition": [
+        { "ingredient": "HSCAS", "value": "20 gm" },
+        { "ingredient": "DCP", "value": "20 gm" },
+        { "ingredient": "Sodium Bicarbonate", "value": "10 gm" },
+        { "ingredient": "L Lysine", "value": "200 mg" },
+        { "ingredient": "DL Methionine", "value": "200 mg" },
+        { "ingredient": "Lactic Acid Bacillus", "value": "100 mg" },
+        { "ingredient": "Dextrose", "value": "Q.S." },
+        { "ingredient": "Yeast Powder", "value": "10 gm" },
+        { "ingredient": "Rice Bhussi Powder", "value": "20%" }
+      ],
+      "benefits": [
+        "Probiotics and yeast: Optimize gut microflora for better nutrient uptake.",
+        "HSCAS: Effectively binds and neutralizes harmful mycotoxins in the feed.",
+        "Efficiency: Boosts feed conversion efficiency, resulting in superior weight gain.",
+        "DCP: Provides the vital phosphorus and calcium needed for strong bones."
+      ],
+      "indications": [
+        "Stabilizes disrupted gut microflora.",
+        "Improves poor nutrient absorption.",
+        "Neutralizes harmful feed mycotoxins.",
+        "Improves poor feed conversion.",
+        "Boosts slow weight gain.",
+        "Strengthens weak skeletal bones.",
+        "Promotes healthy digestive function.",
+        "Restores optimal metabolic balance."
+      ],
+      "dosage": [
+        "Chicks: 50gm/1000 birds (or as directed by veterinarian)",
+        "Broilers/Growers: 100gm/1000 birds (or as directed by veterinarian)",
+        "Layers: 150-200gm/100 birds (or as directed by veterinarian)"
+      ],
+      "packing": "500gm, 1kg, 5kg",
+      "shelfLife": "",
+      "additional": ["Available Pack Size: 500gm, 1kg, 5kg"]
+    },
+    {
+      "id": "Bvitrixa_Plus",
+      "slug": "Bvitrixa-Plus",
+      "category": "Poultry",
+      "name": "BVITRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Bvitrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Bvitrixa_Plus/info_image.png",
+      "heroTitle": "SHREEM BVITRIXA PLUS",
+      "subtitle": "Advanced Vitamin B-Complex Formulation for Enhanced Growth, Immunity & Stress Relief in Poultry",
+      "description": [
+        "Shreem Bvitrixa Plus is a scientifically balanced vitamin B-complex supplement specially formulated for poultry to support optimal growth, improved feed conversion, and better flock performance. It helps in strengthening the nervous system, enhancing metabolic activity, and reducing stress caused by environmental changes, vaccination, or disease conditions. Regular use promotes vitality, better egg production, and overall health, making it an essential nutritional booster for modern poultry management programs."
+      ],
+      "composition": [
+        { "ingredient": "Niacinamide", "value": "100 mg" },
+        { "ingredient": "L Lysine", "value": "20 mg" },
+        { "ingredient": "Biotin", "value": "50 mcg" },
+        { "ingredient": "Vitamin B2", "value": "20 mcg" },
+        { "ingredient": "Vitamin B12", "value": "20 mcg" },
+        { "ingredient": "Vitamin B1", "value": "5 mg" },
+        { "ingredient": "Vitamin B6", "value": "5 mg" },
+        { "ingredient": "Calcium Panthothenate", "value": "5 mg" },
+        { "ingredient": "DL Methinoine", "value": "10 mg" },
+        { "ingredient": "Choline Chloride", "value": "10 mg" }
+      ],
+      "benefits": [
+        "Accelerates the metabolism of carbohydrates, proteins, and fats for better energy utilization.",
+        "Choline and Methionine work synergistically to prevent Fatty Liver Syndrome and detoxify the system.",
+        "L-Lysine and B-Vitamins significantly improve weight gain and Feed Conversion Ratio (FCR) in broilers."
+      ],
+      "indications": [
+        "Corrects B-Vitamin nutritional deficiencies.",
+        "Prevents fatty liver syndrome.",
+        "Improves poor feed conversion.",
+        "Boosts slow broiler weight gain.",
+        "Combats severe environmental stress.",
+        "Supports weak nervous systems.",
+        "Improves poor energy metabolism.",
+        "Promotes rapid healthy growth."
+      ],
+      "dosage": [
+        "Chicks: 5-10ml/100 birds daily (or as directed by veterinarian)",
+        "Broilers/Growers: 10-20ml/100 birds daily (or as directed by veterinarian)",
+        "Layers: 20-30ml/100 birds daily (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Valin-AQ",
+      "slug": "Valin-AQ",
+      "category": "Poultry",
+      "name": "VALIN-AQ",
+      "cover": "new-shreemvet/Products/Poultry/Valin-AQ/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Valin-AQ/info_image.png",
+      "heroTitle": "SHREEM VALIN-AQ",
+      "subtitle": "Vitamin A Liquid",
+      "description": [
+        "Shreem valin-AQ is a premium quality Vitamin A liquid formulation specially developed for poultry to support healthy vision, epithelial tissue integrity, and overall immunity. It plays a vital role in improving growth performance, feed efficiency, and resistance against common infections in birds. Formulated with high bioavailable Vitamin A, Shrevalin-AQ helps prevent deficiency-related conditions such as poor eyesight, stunted growth, reduced egg production, and increased susceptibility to respiratory and digestive disorders. It is ideal for routine supplementation as well as during stress conditions, vaccination periods, and recovery phases to ensure optimum flock health and productivity."
+      ],
+      "composition": [
+        { "ingredient": "Vitamin A", "value": "1,50,000 IU" },
+        { "ingredient": "Excipients", "value": "Q.S." }
+      ],
+      "benefits": [
+        "Maintains and repairs healthy mucosal linings in the gut and respiratory tract.",
+        "Strengthens natural resistance against viral and bacterial challenges.",
+        "Prevents night blindness and supports uniform skeletal development.",
+        "Enhances egg production, fertility, and chick hatchability.",
+        "Mitigates the negative effects of heat stress, vaccination, and transport."
+      ],
+      "indications": [
+        "Corrects severe Vitamin A deficiency.",
+        "Prevents poultry night blindness.",
+        "Repairs damaged mucosal linings.",
+        "Lowers secondary infection risks.",
+        "Improves poor fertility and hatchability.",
+        "Boosts low egg production.",
+        "Supports uniform skeletal growth.",
+        "Reduces heat and transport stress."
+      ],
+      "dosage": [
+        "Chicks: 5ml/100 birds (or as directed by veterinarian)",
+        "Growers: 10ml/100 birds (or as directed by veterinarian)",
+        "Layers: 20ml/100 birds (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "additional": ["Available Pack Size: 500ml, 1ltr, 5ltr"]
+    },
+    {
+      "id": "Valin-H",
+      "slug": "valin-H",
+      "category": "Poultry",
+      "name": "VALIN-H",
+      "cover": "new-shreemvet/Products/Poultry/Valin-H/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Valin-H/info_image.png",
+      "heroTitle": "SHREEM VALIN-H",
+      "subtitle": "Vitamin H Liquid",
+      "description": [
+        "Shreem valin-H is a premium quality Vitamin H (Biotin) liquid supplement specially developed for poultry to support healthy skin, strong feather development, and improved metabolic functions. Biotin plays a crucial role in maintaining carbohydrate, fat, and protein metabolism, thereby enhancing overall growth performance and productivity in birds. Regular supplementation of Shreem valin-H helps in preventing biotin deficiency symptoms such as poor feathering, skin lesions, reduced egg production, leg weakness, and poor feed conversion. It is highly beneficial during rapid growth phases, stress conditions, and recovery periods. Formulated for easy administration through drinking water, Shrevalin-H ensures fast absorption and effective results for a healthier and more productive flock."
+      ],
+      "composition": [
+        { "ingredient": "Biotin", "value": "50 mcg" },
+        { "ingredient": "Vitamin B12", "value": "20 mcg" },
+        { "ingredient": "Vitamin C", "value": "20 mg" },
+        { "ingredient": "Vitamin E", "value": "50 mg" },
+        { "ingredient": "Vitamin A", "value": "10000 IU" },
+        { "ingredient": "Vitamin D3", "value": "10000 IU" }
+      ],
+      "benefits": [
+        "Prevents dermatitis, footpad lesions, and cracked skin through high Biotin levels.",
+        "Promotes rapid, healthy feathering and prevents 'rough feather' syndrome.",
+        "Vitamin C and E act as powerful antioxidants to combat heat and environmental stress.",
+        "Vitamin D3 ensures strong bones and high-quality eggshells."
+      ],
+      "indications": [
+        "Prevents severe poultry dermatitis.",
+        "Heals painful footpad lesions.",
+        "Prevents rough feather syndrome.",
+        "Repairs dry and cracked skin.",
+        "Promotes rapid healthy feathering.",
+        "Improves overall reproductive efficiency.",
+        "Combats severe environmental stress.",
+        "Ensures strong, high-quality eggshells."
+      ],
+      "dosage": [
+        "Chicks: 5ml/100 birds (or as directed by veterinarian)",
+        "Broilers/Growers: 7.5ml/100 birds (or as directed by veterinarian)",
+        "Layers: 10-15ml/100 birds (or as directed by veterinarian)"
+      ],
+      "packing": "500ml, 1ltr, 5ltr",
+      "additional": ["Administer through drinking water for 5-7 days."]
+    }
+  ]
+}

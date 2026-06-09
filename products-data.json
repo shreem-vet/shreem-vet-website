@@ -1,0 +1,360 @@
+{
+  "Bolus": [
+    {
+      "id": "Calvion_Bolus",
+      "name": "CALVION BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Calvion_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Calvion_Bolus/info_image.jpg",
+      "slug": "calvion-bolus",
+      "pageHref": "product/calvion-bolus/"
+    },
+    {
+      "id": "Digexon_Bolus",
+      "name": "DIGEXON BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Digexon_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Digexon_Bolus/info_image.jpg",
+      "slug": "digexon-bolus",
+      "pageHref": "product/digexon-bolus/"
+    },
+    {
+      "id": "Estriva_Heat_Bolus",
+      "name": "ESTRIVA HEAT BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Estriva_Heat_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Estriva_Heat_Bolus/info_image.jpg",
+      "slug": "estriva-heat-bolus",
+      "pageHref": "product/estriva-heat-bolus/"
+    },
+    {
+      "id": "Lactiva_Bolus",
+      "name": "LACTIVA BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Lactiva_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Lactiva_Bolus/info_image.jpg",
+      "slug": "lactiva-bolus",
+      "pageHref": "product/lactiva-bolus/"
+    },
+    {
+      "id": "Mastiva_Bolus",
+      "name": "MASTIVA BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Mastiva_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Mastiva_Bolus/info_image.jpg",
+      "slug": "mastiva-bolus",
+      "pageHref": "product/mastiva-bolus/"
+    },
+    {
+      "id": "Minexa_Bolus",
+      "name": "MINEXA BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Minexa_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Minexa_Bolus/info_image.jpg",
+      "slug": "minexa-bolus",
+      "pageHref": "product/minexa-bolus/"
+    },
+    {
+      "id": "Skintrix_Plus",
+      "name": "SKINTRIX PLUS",
+      "cover": "new-shreemvet/Products/Bolus/Skintrix_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Skintrix_Plus/info_image.jpg",
+      "slug": "skintrix-plus",
+      "pageHref": "product/skintrix-plus/"
+    },
+    {
+      "id": "Wormiva_Bolus",
+      "name": "WORMIVA BOLUS",
+      "cover": "new-shreemvet/Products/Bolus/Wormiva_Bolus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Bolus/Wormiva_Bolus/info_image.jpg",
+      "slug": "wormiva-bolus",
+      "pageHref": "product/wormiva-bolus/"
+    }
+  ],
+  "Cattle": [
+    {
+      "id": "Activexon_Gel",
+      "name": "ACTIVEXON GEL",
+      "cover": "new-shreemvet/Products/Cattle/Activexon_Gel/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Activexon_Gel/info_image.jpg",
+      "slug": "activexon-gel",
+      "pageHref": "product/activexon-gel/"
+    },
+    {
+      "id": "Bufftrixa_Plus",
+      "name": "BUFFTRIXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Bufftrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Bufftrixa_Plus/info_image.jpg",
+      "slug": "bufftrixa-plus",
+      "pageHref": "product/bufftrixa-plus/"
+    },
+    {
+      "id": "Calphovexon_Plus",
+      "name": "CALPHOVEXON PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Calphovexon_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Calphovexon_Plus/info_image.jpg",
+      "slug": "calphovexon-plus",
+      "pageHref": "product/calphovexon-plus/"
+    },
+    {
+      "id": "Caltrixa_Granules",
+      "name": "CALTRIXA GRANULES",
+      "cover": "new-shreemvet/Products/Cattle/Caltrixa_Granules/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Caltrixa_Granules/info_image.jpg",
+      "slug": "caltrixa-granules",
+      "pageHref": "product/caltrixa-granules/"
+    },
+    {
+      "id": "Calvexon_Plus",
+      "name": "CALVEXON PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Calvexon_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Calvexon_Plus/info_image.jpg",
+      "slug": "calvexon-plus",
+      "pageHref": "product/calvexon-plus/"
+    },
+    {
+      "id": "Chelatrixa_Plus",
+      "name": "CHELATRIXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Chelatrixa_Plus/cover_image.jpeg",
+      "infoImage": "new-shreemvet/Products/Cattle/Chelatrixa_Plus/info_image.jpg",
+      "slug": "chelatrixa-plus",
+      "pageHref": "product/chelatrixa-plus/"
+    },
+    {
+      "id": "Enerzexa_Plus",
+      "name": "ENERZEXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Enerzexa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Enerzexa_Plus/info_image.jpg",
+      "slug": "enerzexa-plus",
+      "pageHref": "product/enerzexa-plus/"
+    },
+    {
+      "id": "Enzymax_Plus",
+      "name": "ENZYMAX PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Enzymax_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Enzymax_Plus/info_image.jpg",
+      "slug": "enzymax-plus",
+      "pageHref": "product/enzymax-plus/"
+    },
+    {
+      "id": "Fatrixa_Plus",
+      "name": "FATRIXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Fatrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Fatrixa_Plus/info_image.jpg",
+      "slug": "fatrixa-plus",
+      "pageHref": "product/fatrixa-plus/"
+    },
+    {
+      "id": "Grovtrixa_Plus",
+      "name": "GROVTRIXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Grovtrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Grovtrixa_Plus/info_image.jpg",
+      "slug": "grovtrixa-plus",
+      "pageHref": "product/grovtrixa-plus/"
+    },
+    {
+      "id": "Ionexa_Gel",
+      "name": "IONEXA GEL",
+      "cover": "new-shreemvet/Products/Cattle/Ionexa_Gel/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Ionexa_Gel/info_image.jpg",
+      "slug": "ionexa-gel",
+      "pageHref": "product/ionexa-gel/"
+    },
+    {
+      "id": "Livexon_Plus",
+      "name": "LIVEXON PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Livexon_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Livexon_Plus/info_image.jpg",
+      "slug": "livexon-plus",
+      "pageHref": "product/livexon-plus/"
+    },
+    {
+      "id": "Totrixa_Plus",
+      "name": "TOTRIXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Totrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Totrixa_Plus/info_image.jpg",
+      "slug": "totrixa-plus",
+      "pageHref": "product/totrixa-plus/"
+    },
+    {
+      "id": "Uterofix_Powder",
+      "name": "UTEROFIX POWDER",
+      "cover": "new-shreemvet/Products/Cattle/Uterofix_Powder/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Uterofix_Powder/info_image.jpg",
+      "slug": "uterofix-powder",
+      "pageHref": "product/uterofix-powder/"
+    },
+    {
+      "id": "Uteronexa_Plus",
+      "name": "UTERONEXA PLUS",
+      "cover": "new-shreemvet/Products/Cattle/Uteronexa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Cattle/Uteronexa_Plus/info_image.jpg",
+      "slug": "uteronexa-plus",
+      "pageHref": "product/uteronexa-plus/"
+    }
+  ],
+  "Poultry": [
+    {
+      "id": "Acidixa_Plus",
+      "name": "ACIDIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Acidixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Acidixa_Plus/info_image.png",
+      "slug": "acidixa-plus",
+      "pageHref": "product/acidixa-plus/"
+    },
+    {
+      "id": "Caltrixa_Plus",
+      "name": "CALTRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Caltrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Caltrixa_Plus/info_image.png",
+      "slug": "caltrixa-plus",
+      "pageHref": "product/caltrixa-plus/"
+    },
+    {
+      "id": "Cenvitrixa_Plus",
+      "name": "CENVITRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Cenvitrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Cenvitrixa_Plus/info_image.png",
+      "slug": "cenvitrixa-plus",
+      "pageHref": "product/cenvitrixa-plus/"
+    },
+    {
+      "id": "Coccikill",
+      "name": "COCCIKILL",
+      "cover": "new-shreemvet/Products/Poultry/Coccikill/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Coccikill/info_image.png",
+      "slug": "coccikill",
+      "pageHref": "product/coccikill/"
+    },
+    {
+      "id": "Cufrixa_Plus",
+      "name": "CUFRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Cufrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Cufrixa_Plus/info_image.png",
+      "slug": "cufrixa-plus",
+      "pageHref": "product/cufrixa-plus/"
+    },
+    {
+      "id": "Cuprixa_Plus",
+      "name": "CUPRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Cuprixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Cuprixa_Plus/info_image.png",
+      "slug": "cuprixa-plus",
+      "pageHref": "product/cuprixa-plus/"
+    },
+    {
+      "id": "Growvixa_Plus",
+      "name": "GROWVIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Growvixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Growvixa_Plus/Screenshot 2026-06-09 120313.png",
+      "slug": "growvixa-plus",
+      "pageHref": "product/growvixa-plus/"
+    },
+    {
+      "id": "Heatrelixa_Plus",
+      "name": "HEATRELIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Heatrelixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Heatrelixa_Plus/info_image.png",
+      "slug": "heatrelixa-plus",
+      "pageHref": "product/heatrelixa-plus/"
+    },
+    {
+      "id": "Hematixa_Plus",
+      "name": "HEMATIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Hematixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Hematixa_Plus/info_image.png",
+      "slug": "hematixa-plus",
+      "pageHref": "product/hematixa-plus/"
+    },
+    {
+      "id": "Livixa_Plus",
+      "name": "LIVIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Livixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Livixa_Plus/info_image.png",
+      "slug": "livixa-plus",
+      "pageHref": "product/livixa-plus/"
+    },
+    {
+      "id": "Renatrixa_Plus",
+      "name": "RENATRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Renatrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Renatrixa_Plus/info_image.png",
+      "slug": "renatrixa-plus",
+      "pageHref": "product/renatrixa-plus/"
+    },
+    {
+      "id": "Respitrixa_Plus",
+      "name": "RESPITRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Respitrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Respitrixa_Plus/info_image.png",
+      "slug": "respitrixa-plus",
+      "pageHref": "product/respitrixa-plus/"
+    },
+    {
+      "id": "Selenyxa E Plus",
+      "name": "SELENYXA E PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Selenyxa E Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Selenyxa E Plus/info_image.png",
+      "slug": "selenyxa-e-plus",
+      "pageHref": "product/selenyxa-e-plus/"
+    },
+    {
+      "id": "Selvitrix_Plus",
+      "name": "SELVITRIX PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Selvitrix_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Selvitrix_Plus/info_image.png",
+      "slug": "selvitrix-plus",
+      "pageHref": "product/selvitrix-plus/"
+    },
+    {
+      "id": "Toxitrix_Plus",
+      "name": "TOXITRIX PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Toxitrix_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Toxitrix_Plus/info_image.png",
+      "slug": "toxitrix-plus",
+      "pageHref": "product/toxitrix-plus/"
+    },
+    {
+      "id": "Toxitrixa_Plus",
+      "name": "TOXITRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Toxitrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Toxitrixa_Plus/info_image.png",
+      "slug": "toxitrixa-plus",
+      "pageHref": "product/toxitrixa-plus/"
+    },
+    {
+      "id": "Valin-Cool",
+      "name": "VALIN-COOL",
+      "cover": "new-shreemvet/Products/Poultry/Valin-Cool/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Valin-Cool/info_image.png",
+      "slug": "valin-cool",
+      "pageHref": "product/valin-cool/"
+    },
+    {
+      "id": "Zymetrix_Plus",
+      "name": "ZYMETRIX PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Zymetrix_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Zymetrix_Plus/info_image.png",
+      "slug": "zymetrix-plus",
+      "pageHref": "product/zymetrix-plus/"
+    },
+    {
+      "id": "Bvitrixa_Plus",
+      "name": "BVITRIXA PLUS",
+      "cover": "new-shreemvet/Products/Poultry/Bvitrixa_Plus/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Bvitrixa_Plus/info_image.png",
+      "slug": "bvitrixa-plus",
+      "pageHref": "product/bvitrixa-plus/"
+    },
+    {
+      "id": "Valin_AQ",
+      "name": "VALIN-AQ",
+      "cover": "new-shreemvet/Products/Poultry/Valin-AQ/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Valin-AQ/info_image.png",
+      "slug": "valin-aq",
+      "pageHref": "product/valin-aq/"
+    },
+    {
+      "id": "Valin_H",
+      "name": "VALIN-H",
+      "cover": "new-shreemvet/Products/Poultry/Valin-H/cover_image.jpg",
+      "infoImage": "new-shreemvet/Products/Poultry/Valin-H/info_image.png",
+      "slug": "valin-h",
+      "pageHref": "product/valin-h/"
+    }
+  ]
+}
