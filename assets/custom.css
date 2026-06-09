@@ -613,39 +613,89 @@ body {
     font-size: 0.95rem;
   }
 
-  /* Show rows as two columns: name (flex) | quantity (auto) */
+  /* Render each row as a full-width gray box with name left, qty right */
   .composition-table {
     table-layout: auto;
     width: 100%;
   }
 
+  .composition-table tbody {
+    display: block;
+  }
+
   .composition-table tbody tr {
-    display: grid;
-    grid-template-columns: 1fr auto;
-    gap: 0.5rem 0.75rem;
+    display: flex;
     align-items: center;
-    padding: 0.15rem 0;
+    justify-content: space-between;
+    gap: 0.75rem;
+    background: #f1f5f8; /* light gray box */
+    padding: 0.7rem 0.9rem;
+    border-radius: 12px;
+    margin-bottom: 0.75rem;
   }
 
   .composition-table th,
   .composition-table td {
     display: block;
-    padding: 0.55rem 0.75rem;
+    padding: 0;
     border: none;
+    background: transparent;
   }
 
   .composition-table th {
-    grid-column: 1 / 2;
-    text-align: left;
-    white-space: normal;
+    flex: 1 1 auto;
+    font-weight: 800;
+    color: #163444;
+    white-space: nowrap; /* prevent wrapping */
+    word-break: normal; /* avoid breaking words mid-word */
+    overflow: visible;
+    text-overflow: clip;
+    margin: 0;
+    background: transparent !important; /* ensure no inner pill */
+    min-width: 0; /* allow flex children to shrink properly */
+    padding-left: 0.6rem;
   }
 
   .composition-table td {
-    grid-column: 2 / 3;
+    flex: 0 0 auto;
     text-align: right;
     white-space: nowrap;
     color: #20384f;
+    margin: 0 0 0 0.75rem;
+    padding-right: 0.6rem;
   }
+}
+
+/* Fallback layout when tables are transformed to divs */
+.composition-list {
+  display: block;
+}
+
+.composition-list .comp-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  background: #f1f5f8;
+  padding: 0.75rem 0.95rem;
+  border-radius: 12px;
+  margin-bottom: 0.75rem;
+}
+
+.composition-list .comp-name {
+  font-weight: 800;
+  color: #163444;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1 1 auto;
+}
+
+.composition-list .comp-qty {
+  color: #20384f;
+  flex: 0 0 auto;
+  margin-left: 0.75rem;
+  white-space: nowrap;
 }
 
 .detail-cover {
