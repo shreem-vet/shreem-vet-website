@@ -208,6 +208,35 @@
     drawGrid();
   };
 
+  const transformCompositionTables = () => {
+    document.querySelectorAll(".composition-table").forEach((table) => {
+      try {
+        const rows = Array.from(table.querySelectorAll("tbody tr"));
+        if (!rows.length) return;
+        const list = document.createElement("div");
+        list.className = "composition-list";
+        rows.forEach((tr) => {
+          const th = tr.querySelector("th");
+          const td = tr.querySelector("td");
+          const row = document.createElement("div");
+          row.className = "comp-row";
+          const name = document.createElement("div");
+          name.className = "comp-name";
+          name.textContent = th ? th.textContent.trim() : "";
+          const qty = document.createElement("div");
+          qty.className = "comp-qty";
+          qty.textContent = td ? td.textContent.trim() : "";
+          row.appendChild(name);
+          row.appendChild(qty);
+          list.appendChild(row);
+        });
+        table.parentNode.replaceChild(list, table);
+      } catch (e) {
+        // silently ignore transform failures
+      }
+    });
+  };
+
   const init = async () => {
     buildUnifiedHeader();
     initMenu();
@@ -225,6 +254,9 @@
     if (document.body.dataset.page === "products") {
       await renderProducts(false);
     }
+
+    // transform static composition tables into responsive rows
+    transformCompositionTables();
   };
 
   if (document.readyState === "loading") {
