@@ -686,8 +686,14 @@ body {
   font-weight: 800;
   color: #163444;
   white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
+  overflow-x: auto;
+  overflow-y: hidden;
+  text-overflow: clip;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  scrollbar-color: #c7d4e3 transparent;
+  padding-bottom: 0.1rem;
+  min-width: 0;
   flex: 1 1 auto;
 }
 
@@ -696,6 +702,7 @@ body {
   flex: 0 0 auto;
   margin-left: 0.75rem;
   white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .detail-cover {
