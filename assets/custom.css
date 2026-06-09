@@ -613,21 +613,38 @@ body {
     font-size: 0.95rem;
   }
 
-  /* Allow values to wrap on very small screens to avoid horizontal overflow */
+  /* Show rows as two columns: name (flex) | quantity (auto) */
   .composition-table {
     table-layout: auto;
+    width: 100%;
   }
 
-  .composition-table td {
-    white-space: normal;
-    text-align: left;
-    color: #20384f;
+  .composition-table tbody tr {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 0.5rem 0.75rem;
+    align-items: center;
+    padding: 0.15rem 0;
   }
 
   .composition-table th,
   .composition-table td {
     display: block;
-    padding: 0.6rem 0.75rem;
+    padding: 0.55rem 0.75rem;
+    border: none;
+  }
+
+  .composition-table th {
+    grid-column: 1 / 2;
+    text-align: left;
+    white-space: normal;
+  }
+
+  .composition-table td {
+    grid-column: 2 / 3;
+    text-align: right;
+    white-space: nowrap;
+    color: #20384f;
   }
 }
 
